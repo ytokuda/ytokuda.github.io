@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sriram Subraman | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/authors/sriram-subraman/</link>
+      <atom:link href="https://ytokuda.github.io/authors/sriram-subraman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sriram Subraman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Sriram Subraman</title>
+      <link>https://ytokuda.github.io/authors/sriram-subraman/</link>
+    </image>
+    
+    <item>
+      <title>MistForm: Adaptive Shape Changing Fog Screens</title>
+      <link>https://ytokuda.github.io/publication/2017_paper_mistform/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_paper_mistform/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

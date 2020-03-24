@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>particle manipulation | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/tags/particle-manipulation/</link>
+      <atom:link href="https://ytokuda.github.io/tags/particle-manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>particle manipulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>particle manipulation</title>
+      <link>https://ytokuda.github.io/tags/particle-manipulation/</link>
+    </image>
+    
+    <item>
+      <title>MistForm: Adaptive Shape Changing Fog Screens</title>
+      <link>https://ytokuda.github.io/publication/2017_paper_mistform/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_paper_mistform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Display</title>
+      <link>https://ytokuda.github.io/publication/2010_paper_cloud_ace/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2010_paper_cloud_ace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vortex ring based display</title>
+      <link>https://ytokuda.github.io/publication/2010_paper_vortexring/</link>
+      <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2010_paper_vortexring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Proposal for a Vortex Ring Display</title>
+      <link>https://ytokuda.github.io/publication/2009_journal_vortexring_ipsj/</link>
+      <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2009_journal_vortexring_ipsj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controllable Vortex Display</title>
+      <link>https://ytokuda.github.io/publication/2008_poster_vortexring/</link>
+      <pubDate>Mon, 11 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2008_poster_vortexring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

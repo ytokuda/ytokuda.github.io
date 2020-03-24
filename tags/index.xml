@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/tags/</link>
+      <atom:link href="https://ytokuda.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Tags</title>
+      <link>https://ytokuda.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Programmable Material</title>
+      <link>https://ytokuda.github.io/tags/programmable-material/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/programmable-material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programmable materials</title>
+      <link>https://ytokuda.github.io/tags/programmable-materials/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/programmable-materials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable</title>
+      <link>https://ytokuda.github.io/tags/reconfigurable/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/reconfigurable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D floating display</title>
+      <link>https://ytokuda.github.io/tags/3d-floating-display/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/3d-floating-display/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metamaterial</title>
+      <link>https://ytokuda.github.io/tags/metamaterial/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/metamaterial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haptics</title>
+      <link>https://ytokuda.github.io/tags/haptics/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/haptics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liquid Metal</title>
+      <link>https://ytokuda.github.io/tags/liquid-metal/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/liquid-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floating Display</title>
+      <link>https://ytokuda.github.io/tags/floating-display/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/floating-display/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle</title>
+      <link>https://ytokuda.github.io/tags/particle/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/particle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>particle manipulation</title>
+      <link>https://ytokuda.github.io/tags/particle-manipulation/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/particle-manipulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retroreflector</title>
+      <link>https://ytokuda.github.io/tags/retroreflector/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/retroreflector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avatar</title>
+      <link>https://ytokuda.github.io/tags/avatar/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/avatar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media Art</title>
+      <link>https://ytokuda.github.io/tags/media-art/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/media-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotic Display</title>
+      <link>https://ytokuda.github.io/tags/robotic-display/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/robotic-display/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telepresence</title>
+      <link>https://ytokuda.github.io/tags/telepresence/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/telepresence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gamification</title>
+      <link>https://ytokuda.github.io/tags/gamification/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/gamification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interface</title>
+      <link>https://ytokuda.github.io/tags/interface/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vortex ring</title>
+      <link>https://ytokuda.github.io/tags/vortex-ring/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/vortex-ring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital public art</title>
+      <link>https://ytokuda.github.io/tags/digital-public-art/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/tags/digital-public-art/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

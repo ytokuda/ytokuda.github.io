@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hirotsugu Yamamoto | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/authors/hirotsugu-yamamoto/</link>
+      <atom:link href="https://ytokuda.github.io/authors/hirotsugu-yamamoto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hirotsugu Yamamoto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Hirotsugu Yamamoto</title>
+      <link>https://ytokuda.github.io/authors/hirotsugu-yamamoto/</link>
+    </image>
+    
+    <item>
+      <title>DISPLAY DEVICE, AND DISPLAY METHOD FOR AERIAL IMAGE</title>
+      <link>https://ytokuda.github.io/publication/2018_patent_floating_yamamoto/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2018_patent_floating_yamamoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarized aerial imaging by retroreflection for 2.5D floating image displays</title>
+      <link>https://ytokuda.github.io/publication/2016_others_r2d2wairr_spie/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2016_others_r2d2wairr_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aerial Imaging by Retro Reflection with Transparent Retro Reflector (AIRR with TRR)</title>
+      <link>https://ytokuda.github.io/publication/2015_paper_airr_trr/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2015_paper_airr_trr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R2D2 w/ AIRR: real time &amp; real space double-layered display with aerial imaging by retro-reflection</title>
+      <link>https://ytokuda.github.io/publication/2015_demo_r2d2wairr/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2015_demo_r2d2wairr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarized Aerial Imaging by Retro-Reflection (pAIRR)</title>
+      <link>https://ytokuda.github.io/publication/2015_poster_dhip/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2015_poster_dhip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

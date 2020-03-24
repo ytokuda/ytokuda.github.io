@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spyros Polychronopoulos | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/authors/spyros-polychronopoulos/</link>
+      <atom:link href="https://ytokuda.github.io/authors/spyros-polychronopoulos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spyros Polychronopoulos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Spyros Polychronopoulos</title>
+      <link>https://ytokuda.github.io/authors/spyros-polychronopoulos/</link>
+    </image>
+    
+    <item>
+      <title>SoundBender: Dynamic Acoustic Control Behind Obstacles</title>
+      <link>https://ytokuda.github.io/publication/2018_paper_soundbender/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2018_paper_soundbender/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

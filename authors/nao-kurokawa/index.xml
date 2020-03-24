@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nao Kurokawa | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/authors/nao-kurokawa/</link>
+      <atom:link href="https://ytokuda.github.io/authors/nao-kurokawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nao Kurokawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Nao Kurokawa</title>
+      <link>https://ytokuda.github.io/authors/nao-kurokawa/</link>
+    </image>
+    
+    <item>
+      <title>DISPLAY DEVICE, AND DISPLAY METHOD FOR AERIAL IMAGE</title>
+      <link>https://ytokuda.github.io/publication/2018_patent_floating_yamamoto/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2018_patent_floating_yamamoto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haptics | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/tags/haptics/</link>
+      <atom:link href="https://ytokuda.github.io/tags/haptics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haptics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Haptics</title>
+      <link>https://ytokuda.github.io/tags/haptics/</link>
+    </image>
+    
+    <item>
+      <title>Tangible Drops</title>
+      <link>https://ytokuda.github.io/projects/tangibledrops/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/tangibledrops/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-1&#34; style=&#34;background-image:  url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,f_auto,fl_progressive,o_60,q_auto:low/v1584846218/homepage/tangibledrops/header_lciygw.png) &#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; Tangible Drops&lt;/h1&gt;
+        &lt;h3 style=&#34;color:rgb(220,220,220);&#34;&gt; A Visio-Tactile Display Using Actuated Liquid-Metal Droplets &lt;/h3&gt;
+    &lt;/div&gt;
+ &lt;div class=&#34;container mt-1&#34;&gt;
+      &lt;div class=&#34;row pt-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+       &lt;div class=&#34;col text-center&#34;&gt;
+         &lt;a href=&#34;https://www.swansea.ac.uk/compsci/research-and-impact/human-computer-interaction/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769573/homepage/logo/fitlab_dza4vj.png&#34; width=&#34;75%&#34; height = auto class=&#34;mx-auto d-block&#34; &gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+          &lt;a href=&#34;http://interact-lab.com/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769573/homepage/logo/interactlab_djohtp.png&#34; width=&#34;100%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+       &lt;p class=&#34;text-justify&#34;&gt; This project proposed Tangible Drops, a visio-tactile display that for the first time provides physical visualization and tactile feedback using a planar liquid interface. It presents digital information interactively by tracing dynamic patterns on horizontal flat surfaces using liquid metal drops on a programmable electrode array. It provides tactile feedback with directional information in the 2D vector plane using linear locomotion and/or vibration of the liquid metal drops. We demonstrate move, oscillate, merge, split and dispense-from-reservoir functions of the liquid metal drops by consuming low power (450 mW per electrode) and low voltage (8--15 V). We reported on results of our empirical study with 12 participants on tactile feedback using 8 mm diameter drops, which indicated that Tangible Drops can convey tactile sensations such as changing speed, varying direction and controlled oscillation with no visual feedback. We explored the design space and demonstrated the applications of Tangible Drops, and showed potential future applications for the technique.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-2&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Working Principles
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white mt-1 mb-4 pb-5&#34;&gt;
+  &lt;div class=&#34;row  text-center no-gutters&#34; &gt;
+   &lt;div class=&#34;col-12 pt-4&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584846218/homepage/tangibledrops/motion_bjni1l.png&#34; width=&#34;80%&#34; height = auto&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-1&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;1&lt;/i&gt;&lt;/span&gt;&amp;ensp;Linear 2D Locomotion by Continuous Electrowetting&lt;/p&gt; 
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-4&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584846218/homepage/tangibledrops/vibration_srem8f.png&#34; width=&#34;80%&#34; height = auto&gt;
+  &lt;/div&gt;
+   &lt;div class=&#34;col-12 pt-1&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;2&lt;/i&gt;&lt;/span&gt;&amp;ensp;Vertical Deformation and Vibration by AC Electrowetting  &lt;/p&gt; 
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row align-items-center text-center&#34; &gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/H_hwheul.jpg&#34; width=&#34;373&#34; height=auto&gt;
+          &lt;source src=&#34;H.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;H.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/H_hwheul.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+         &lt;p class=&#34;lead&#34;&gt; Locomotion drawing the letter &#39;H&#39; &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/vibration_oqfoke.jpg&#34; width=&#34;373&#34; height=auto&gt;
+          &lt;source src=&#34;vibration.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;vibration.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/vibration_oqfoke.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt;  Vibration Mode Control&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/tactile_txn9vg.jpg&#34; width=&#34;373&#34; height=auto&gt;
+           &lt;source src=&#34;tactile.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;tactile.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/tactile_txn9vg.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt;  Tactile Feedback by Liquid Metal&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-9&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;//www.youtube.com/embed/nG5YW8TmY1c&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+   &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; 
+Deepak Ranjan Sahoo, Timothy Neate, Yutaka Tokuda, Jennifer Pearson, Simon Robinson, Sriram Subramanian, Matt Jones. 2018. &lt;strong&gt;Tangible Drops: A Visio-Tactile Display Using Actuated Liquid-Metal Droplets. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems&lt;/em&gt; (CHI&#39;18), pp.1--14. &lt;a href= &#34;https://doi.org/10.1145/3173574.3173751&#34;&gt; https://doi.org/10.1145/3173574.3173751 &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;/publication/2018_paper_tangibledrop/cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;https://core.ac.uk/download/pdf/157696895.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [1.96MB]&lt;/i&gt; &lt;/a&gt;
+   &lt;/p&gt;
+      &lt;p&gt;
+      &lt;span class=&#34;badge badge-warning&#34;&gt;Demo&lt;/span&gt; 
+Deepak Ranjan Sahoo, Timothy Neate, Yutaka Tokuda, Jennifer Pearson, Simon Robinson, Sriram Subramanian, Matt Jones. 2017. &lt;strong&gt;JDLED: Towards Visio-Tactile Displays Based on Electrochemical Locomotion of Liquid-Metal Janus Droplets. &lt;/strong&gt;
+          &lt;em&gt;Adjunct Publication of the 30th Annual ACM Symposium on User Interface Software and Technology&lt;/em&gt; (UIST&#39;17 demo), pp.67--69. &lt;a href= &#34;https://doi.org/10.1145/3131785.3131793&#34;&gt; https://doi.org/10.1145/3131785.3131793 &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+      &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;http://sro.sussex.ac.uk/id/eprint/70978/3/paper118.pdf&#34;&gt; &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [6.84MB] &lt;/i&gt; &lt;/a&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sho Onose | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/authors/sho-onose/</link>
+      <atom:link href="https://ytokuda.github.io/authors/sho-onose/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sho Onose</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 09 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Sho Onose</title>
+      <link>https://ytokuda.github.io/authors/sho-onose/</link>
+    </image>
+    
+    <item>
+      <title>Aerial Imaging by Retro Reflection with Transparent Retro Reflector (AIRR with TRR)</title>
+      <link>https://ytokuda.github.io/publication/2015_paper_airr_trr/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2015_paper_airr_trr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

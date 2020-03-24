@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotic Display | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/tags/robotic-display/</link>
+      <atom:link href="https://ytokuda.github.io/tags/robotic-display/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotic Display</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 22 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Robotic Display</title>
+      <link>https://ytokuda.github.io/tags/robotic-display/</link>
+    </image>
+    
+    <item>
+      <title>Mobile Embodied 3D Avatar</title>
+      <link>https://ytokuda.github.io/projects/mobileavatar/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/mobileavatar/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-2 pb-5&#34; style=&#34;background-position: top; background-image: url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,c_scale,e_sharpen:100,f_auto,fl_progressive,o_60,q_auto:low,w_1380/v1584924291/homepage/mobileavatar/header_wjo9bk.png)&#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; Mobile Embodied 3D Avatar &lt;/h1&gt;
+        &lt;h3 style=&#34;color:rgb(200,200,200);&#34;&gt;Walkable Holographic Telepresence System for a Senior Cloud Worker&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container pb-5 mt-1&#34;&gt;
+      &lt;div class=&#34;row pt-5 pb-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+          &lt;a href=&#34;http://www.cyber.t.u-tokyo.ac.jp/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_84,q_auto,w_296/v1584769573/homepage/logo/utcyber_sfzkb1.png&#34; width=&#34;100%&#34; height = auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+         &lt;a href=&#34;http://sc.cyber.t.u-tokyo.ac.jp/en/overview.html&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_84,q_auto,w_296/v1584769573/homepage/logo/sinnovation_cvyfwj.png&#34; width=&#34;100%&#34; height = auto class=&#34;mx-auto d-block&#34; &gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+       &lt;p class=&#34;text-justify&#34;&gt;&lt;a href=&#34;https://www.wikiwand.com/en/Telepresence&#34;&gt;Telepresence&lt;/a&gt; technology can provide an alternative working style for seniors who want to continuously contribute to society after retirment by delivering their experiences and know-hows to a young generation. Conventional telepresence methods are, however, limited to a face-to-face communication utilizing a static flat-panel display or a physically constrained humanoid robot, which lack the presence of a remote operator, non-verbal communication cues such as a body language, and the freedom of mobility. In this project, we explored a mobile embodied 3D avatar system to shift a rich expressiveness of full-body avatar from virtual world to daily life by integrating a high maneuvability into a human-scale semi-transparent holographic display. We investigated a novel architecture to contorl embodied multimodal avatar by deploying a multimodal behavior generation framework, &lt;a href=&#34;https://link.springer.com/chapter/10.1007%2F11821830_17&#34;&gt;SAIBA&lt;/a&gt; (Situation, Agent, Intention, Behavior, Animation). Synergy effects of a physical movement through a moveable robotic display and a smooth computer graphic animaiton visualized on a 3D display demonstrated a dynamic visual media expression for &lt;a href=&#34;https://web.archive.org/web/19981205111134/http://www.cs.unc.edu/~raskar/Office/&#34;&gt;Spatial Augmented Reality&lt;/a&gt;, which can improve the presence and non-verbal communication cues of a remote operator.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Overview
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-center text-white mt-2 mb-4 pb-5&#34;&gt;
+  &lt;div class=&#34;row  no-gutters&#34; &gt;
+   &lt;div class=&#34;col-12&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584924219/homepage/mobileavatar/overview_nbfjbh.png&#34; width=&#34;80%&#34; height = auto &gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row align-items-center text-center&#34; &gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/jyugyou_mzf6nr.jpg&#34; width=&#34;370&#34; height=&#34;231&#34;&gt;
+          &lt;source src=&#34;jyugyou.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;jyugyou.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/jyugyou_mzf6nr.gif&#34; class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+         &lt;p class=&#34;lead&#34;&gt; Remote Lecture from Home &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/bearanimation_bwztxf.jpg&#34; width=&#34;370&#34; height=&#34;231&#34;&gt;
+          &lt;source src=&#34;bearanimation.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;bearanimation.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/bearanimation_bwztxf.gif&#34; class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Dynamical 3D Depth Animation&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/mario_fdww9p.jpg&#34; width=&#34;370&#34; height=&#34;231&#34;&gt;
+          &lt;source src=&#34;mario.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;mario.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/mario_fdww9p.gif&#34; class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Outdoor Test &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-9&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/65499231&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+   &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Yutaka Tokuda, Atsushi Hiyama, Takahiro Miura, Tomohiro Tanikawa, Michitaka Hirose. 2013. &lt;strong&gt;Towards Mobile Embodied 3D Avatar as Telepresence Vehicle. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 7th International Conference on Universal Access in Human-Computer Interaction&lt;/em&gt; (UAHCI&#39;13), &lt;br&gt; pp.671--680. Springer. &lt;a href= &#34;https://link.springer.com/chapter/10.1007%2F978-3-642-39194-1_77&#34;&gt; https://doi.org/10.1007%2F978-3-642-39194-1_77 &lt;/a&gt; &amp;nbsp;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;cite2013.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+   &lt;/p&gt;
+    &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Masahiko Izumi, Tomoya Kikuno, Yutaka Tokuda, Atsushi Hiyama, Takahiro Miura, Michitaka Hirose. 2014. &lt;strong&gt;Practical Use of a Remote Movable Avatar Robot with an Immersive Interface for Seniors. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 8th International Conference on Universal Access in Human-Computer Interaction&lt;/em&gt; (UAHCI&#39;14), pp.648--659. Springer. &lt;a href= &#34;https://link.springer.com/chapter/10.1007/978-3-319-07446-7_62&#34;&gt; https://doi.org/10.1007/978-3-319-07446-7_62 &lt;/a&gt; &amp;nbsp;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;cite2014.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jose Luis Berna Moya | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/authors/jose-luis-berna-moya/</link>
+      <atom:link href="https://ytokuda.github.io/authors/jose-luis-berna-moya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jose Luis Berna Moya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Jose Luis Berna Moya</title>
+      <link>https://ytokuda.github.io/authors/jose-luis-berna-moya/</link>
+    </image>
+    
+    <item>
+      <title>Programmable Liquid Matter: 2D Shape Deformation of Highly Conductive Liquid Metals in a Dynamic Electric Field</title>
+      <link>https://ytokuda.github.io/publication/2017_paper_programmableliquid/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_paper_programmableliquid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable Liquid Matter: 2D Shape Drawing of Highly Conductive Liquid Metals in a Dynamic Electric Field</title>
+      <link>https://ytokuda.github.io/publication/2017_demo_programmableliquid/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_demo_programmableliquid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

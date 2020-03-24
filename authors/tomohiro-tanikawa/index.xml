@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomohiro Tanikawa | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/authors/tomohiro-tanikawa/</link>
+      <atom:link href="https://ytokuda.github.io/authors/tomohiro-tanikawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tomohiro Tanikawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 21 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Tomohiro Tanikawa</title>
+      <link>https://ytokuda.github.io/authors/tomohiro-tanikawa/</link>
+    </image>
+    
+    <item>
+      <title>Towards Mobile Embodied 3D Avatar as Telepresence Vehicle</title>
+      <link>https://ytokuda.github.io/publication/2013_paper_avatar_hcii/</link>
+      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2013_paper_avatar_hcii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Display</title>
+      <link>https://ytokuda.github.io/publication/2010_paper_cloud_ace/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2010_paper_cloud_ace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vortex ring based display</title>
+      <link>https://ytokuda.github.io/publication/2010_paper_vortexring/</link>
+      <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2010_paper_vortexring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Proposal for a Vortex Ring Display</title>
+      <link>https://ytokuda.github.io/publication/2009_journal_vortexring_ipsj/</link>
+      <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2009_journal_vortexring_ipsj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree-shaded screen: A Propeller type screen for Public Art</title>
+      <link>https://ytokuda.github.io/publication/2009_paper_tree/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2009_paper_tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controllable Vortex Display</title>
+      <link>https://ytokuda.github.io/publication/2008_poster_vortexring/</link>
+      <pubDate>Mon, 11 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2008_poster_vortexring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

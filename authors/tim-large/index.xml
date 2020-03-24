@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Large | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/authors/tim-large/</link>
+      <atom:link href="https://ytokuda.github.io/authors/tim-large/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tim Large</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 24 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Tim Large</title>
+      <link>https://ytokuda.github.io/authors/tim-large/</link>
+    </image>
+    
+    <item>
+      <title>Control of polarization and diffractive artifact resolution in retro-imaging systems</title>
+      <link>https://ytokuda.github.io/publication/2017_patent_floating_microsoft/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_patent_floating_microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Material Combinations for Bright and Clear Floating Image by Retro-reflective Re-imaging Technique</title>
+      <link>https://ytokuda.github.io/publication/2014_paper_airr_idw/</link>
+      <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2014_paper_airr_idw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

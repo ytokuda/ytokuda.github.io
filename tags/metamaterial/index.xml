@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metamaterial | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/tags/metamaterial/</link>
+      <atom:link href="https://ytokuda.github.io/tags/metamaterial/index.xml" rel="self" type="application/rss+xml" />
+    <description>Metamaterial</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Metamaterial</title>
+      <link>https://ytokuda.github.io/tags/metamaterial/</link>
+    </image>
+    
+    <item>
+      <title>SoundBender</title>
+      <link>https://ytokuda.github.io/projects/soundbender/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/soundbender/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-1 &#34; style=&#34;background-image:url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,c_limit,e_sharpen:100,f_auto,fl_progressive,h_512,o_70,q_auto:low,w_1348/v1584835736/homepage/soundbender/featured_header_fl78hu.png)&#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; SoundBender &lt;/h1&gt;
+        &lt;h3 style=&#34;color:rgb(220,220,220);&#34;&gt; Dynamic Acoustic Control behind Obstacles by Metamaterial &lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container mt-1&#34;&gt;
+      &lt;div class=&#34;row pt-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+         &lt;a href=&#34;http://interact-lab.com/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_84,q_auto,w_296/v1584769573/homepage/logo/interactlab_djohtp.png&#34; width=&#34;80%&#34; height = auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+       &lt;p class=&#34;text-justify&#34;&gt;Ultrasound manipulation is growing in popularity with applications in &lt;a href=&#34;https://www.ultraleap.com/haptics/&#34;&gt;mid-air haptics&lt;/a&gt;, on-body interaction, and &lt;a href=&#34;https://www.nature.com/articles/d41586-019-03454-y&#34;&gt;levitation-based displays&lt;/a&gt;. Most of these applications share two key limitations: a) the complexity of the sound fields that can be produced is limited by the physical size of the transducers; and b) no obstacles can be present between the transducers and the control point. We proposed SoundBender, a hybrid system that overcomes these limitations by combining the versatility of &lt;a href=&#34;https://www.wikiwand.com/en/Phased_array_ultrasonics&#34;&gt;phased arrays of Transducers&lt;/a&gt;(PATs) with the precision of &lt;a href=&#34;https://www.wikiwand.com/en/Acoustic_metamaterial&#34;&gt;acoustic metamaterials&lt;/a&gt;. In this project, we explored a new approach to design and implement such hybrid modulators (i.e. to create complex sound fields) and methods to manipulate the field dynamically (i.e. stretch, steer). We demonstrated our concept using self-bending beams enabling both levitation and tactile feedback around an obstacle and presented example applications enabled by SoundBender.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Working Principle
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white mt-2 mb-4 pb-4&#34;&gt;
+   &lt;div class=&#34;row-8 align-items-center text-center pb-2&#34; &gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_fit,e_sharpen:100,f_auto,fl_progressive,h_640,q_auto:low,w_1628/v1584834859/homepage/soundbender/principle_xdejht.png&#34; width=&#34;80%&#34; height = auto class=&#34;mx-auto d-block&#34; &gt;
+    &lt;br&gt;
+    &lt;div class=&#34;row-8 align-items-center text-center&#34; &gt;
+     &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/soundbender/principle-video_rqjq02.jpg&#34; width=&#34;878&#34; height=auto&gt;
+          &lt;source src=&#34;principle-video.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;principle-video.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/soundbender/principle-video_rqjq02.gif&#34; width=&#34;878&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+      &lt;/video&gt;
+   &lt;/div&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container ontainer-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row align-items-center text-center&#34; &gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/haptics_odsd6q.jpg&#34; width=&#34;370&#34; height=&#34;208&#34;&gt;
+          &lt;source src=&#34;haptics.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;haptics.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/haptics_odsd6q.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+         &lt;p class=&#34;lead&#34;&gt; Mid-air Haptics behind an obstacle &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/airflow_kat5qx.jpg&#34; width=&#34;370&#34; height=&#34;208&#34;&gt;
+          &lt;source src=&#34;airflow.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;airflow.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/airflow_kat5qx.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Dynamic Airflow Control &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/levitation_bnsbs7.jpg&#34; width=&#34;370&#34; height=&#34;208&#34;&gt;
+          &lt;source src=&#34;levitation.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;levitation.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/levitation_bnsbs7.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Levitation around an obstacle &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-9&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;//www.youtube.com/embed/zixzyeF25SY&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt; Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+   &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Mohd Adili Norasikin, Diego Martinez Plasencia, Spyros Polychronopoulos, Gianluca Memoli, Yutaka Tokuda, Sriram Subramanian. 2018. &lt;strong&gt;SoundBender: Dynamic Acoustic Control Behind Obstacles. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 31st Annual ACM Symposium on User In terface Software and Technology&lt;/em&gt; (UIST&#39;18), pp.247--259. &lt;a href= &#34;https://doi.org/10.1145/3242587.3242590&#34;&gt; https://doi.org/10.1145/3242587.3242590 &lt;/a&gt; &amp;nbsp;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;/publication/2018_paper_soundbender/cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;http://sro.sussex.ac.uk/id/eprint/78305/1/SoundBender_UIST2018_pdf2.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF &lt;/i&gt; &lt;/a&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;https://www.youtube.com/watch?v=-Er_5qE4O_U&#34;&gt;&lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; Talk&lt;/a&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SoundBender: Dynamic Acoustic Control Behind Obstacles</title>
+      <link>https://ytokuda.github.io/publication/2018_paper_soundbender/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2018_paper_soundbender/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

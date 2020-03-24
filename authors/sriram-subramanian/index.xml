@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sriram Subramanian | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/authors/sriram-subramanian/</link>
+      <atom:link href="https://ytokuda.github.io/authors/sriram-subramanian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sriram Subramanian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Sriram Subramanian</title>
+      <link>https://ytokuda.github.io/authors/sriram-subramanian/</link>
+    </image>
+    
+    <item>
+      <title>PickCells: A Physically Reconfigurable Cell-composed Touchscreen</title>
+      <link>https://ytokuda.github.io/publication/2019_paper_pickcel/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2019_paper_pickcel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoundBender: Dynamic Acoustic Control Behind Obstacles</title>
+      <link>https://ytokuda.github.io/publication/2018_paper_soundbender/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2018_paper_soundbender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tangible Drops: A Visio-Tactile Display Using Actuated Liquid-Metal Droplets</title>
+      <link>https://ytokuda.github.io/publication/2018_paper_tangibledrop/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2018_paper_tangibledrop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JDLED: Towards Visio-Tactile Displays Based on Electrochemical Locomotion of Liquid-Metal Janus Droplets</title>
+      <link>https://ytokuda.github.io/publication/2017_demo_jdled/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_demo_jdled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable Liquid Matter: 2D Shape Deformation of Highly Conductive Liquid Metals in a Dynamic Electric Field</title>
+      <link>https://ytokuda.github.io/publication/2017_paper_programmableliquid/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_paper_programmableliquid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable Liquid Matter: 2D Shape Drawing of Highly Conductive Liquid Metals in a Dynamic Electric Field</title>
+      <link>https://ytokuda.github.io/publication/2017_demo_programmableliquid/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_demo_programmableliquid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

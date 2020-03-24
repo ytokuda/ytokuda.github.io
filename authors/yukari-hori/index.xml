@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yukari Hori | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/authors/yukari-hori/</link>
+      <atom:link href="https://ytokuda.github.io/authors/yukari-hori/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yukari Hori</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Yukari Hori</title>
+      <link>https://ytokuda.github.io/authors/yukari-hori/</link>
+    </image>
+    
+    <item>
+      <title>Communication pedometer: a discussion of gamified communication focused on frequency of smiles</title>
+      <link>https://ytokuda.github.io/publication/2013_paper_hori_ah/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2013_paper_hori_ah/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

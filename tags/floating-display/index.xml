@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Floating Display | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/tags/floating-display/</link>
+      <atom:link href="https://ytokuda.github.io/tags/floating-display/index.xml" rel="self" type="application/rss+xml" />
+    <description>Floating Display</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Floating Display</title>
+      <link>https://ytokuda.github.io/tags/floating-display/</link>
+    </image>
+    
+    <item>
+      <title>MistForm</title>
+      <link>https://ytokuda.github.io/projects/mistform/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/mistform/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-1&#34; style=&#34;background-image: url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,f_auto,fl_progressive,o_70,q_auto:low/v1584889806/homepage/mistform/header_l5abjc.jpg)&#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; MistForm &lt;/h1&gt;
+        &lt;h3 style=&#34;color:rgb(200,200,200);&#34;&gt;Adaptive Shape Changing Fog Screens for 3D Spatial Interactions&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container mt-1&#34;&gt;
+      &lt;div class=&#34;row pt-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+         &lt;a href=&#34;http://interact-lab.com/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769573/homepage/logo/interactlab_djohtp.png&#34; width=&#34;70%&#34; height = auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+       &lt;p class=&#34;text-justify&#34;&gt;We propose MistForm, a shape changing fog display that can support one or two users spatially interacting with either 2D or 3D content. Mistform combines affordances from both shape changing interfaces and mid-air displays. For example, a concave display can maintain content in comfortable reach for a single user, while a convex shape can support several users engaged on individual tasks. MistForm also enables unique interaction possibilities by exploiting the synergies between shape changing interfaces and mid-air fog displays. For instance, moving the screen will affect the brightness and blurriness of the screen at specific locations around the display, creating spaces with similar (collaboration) or different visibility (personalized content). We describe the design of MistForm and analyse its inherent challenges, such as image distortion and uneven brightness on dynamic curved surfaces. We provide a machine learning approach to characterize the shape of the screen and a rendering algorithm to remove aberrations. We finally explore novel interactive possibilities and reflect on their potential and limitations.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Work Flow
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-center text-white mt-2 mb-4 pb-5&#34;&gt;
+  &lt;div class=&#34;row  no-gutters&#34; &gt;
+   &lt;div class=&#34;col-12&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_fit,e_sharpen:100,f_auto,fl_progressive,q_auto:low,w_1100/v1584889807/homepage/mistform/principle_q5ee2r.png&#34; width=&#34;100%&#34; height = auto &gt;
+  &lt;/div&gt;
+   &lt;div class=&#34;col-6 pt-1&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/fogdeform_mnqdrw.jpg&#34; &gt;
+          &lt;source src=&#34;fogdeform.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;fogdeform.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/fogdeform_mnqdrw.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+    &lt;div class=&#34;col-6 pt-1&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/pipemotion_i7ahgn.jpg&#34; &gt;
+          &lt;source src=&#34;pipemotion.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;pipemotion.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/pipemotion_i7ahgn.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-1&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;1&lt;/i&gt;&lt;/span&gt;&amp;ensp;Dynamic Actuation of Immaterial Fog Screen&lt;/p&gt; 
+  &lt;/div&gt;
+     &lt;div class=&#34;col-6 pt-3&#34;&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/calibration_odz2jq.jpg&#34; &gt;
+          &lt;source src=&#34;calibration.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;calibration.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/calibration_odz2jq.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+    &lt;div class=&#34;col-6 pt-3&#34;&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/machinelearning_pwwvcg.jpg&#34; &gt;
+          &lt;source src=&#34;machinelearning.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;machinelearning.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/machinelearning_pwwvcg.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-1&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;2&lt;/i&gt;&lt;/span&gt;&amp;ensp;Calibration and Modeling of Shape Changing Fog Screen&lt;/p&gt; 
+  &lt;/div&gt;
+       &lt;div class=&#34;col-6 pt-3&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/projection_wjirqw.jpg&#34; &gt;
+          &lt;source src=&#34;projection.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;projection.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/projection_wjirqw.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+    &lt;div class=&#34;col-6 pt-3&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/correction_mco8u0.jpg&#34; &gt;
+          &lt;source src=&#34;correction.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;correction.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/correction_mco8u0.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-1&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;3&lt;/i&gt;&lt;/span&gt;&amp;ensp;Correction of the Projection Distortion and Uneven Brightness on Curved Fog Screen&lt;/p&gt; 
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container  mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row justify-content-center text-center&#34; &gt;
+       &lt;div class=&#34;col-12 text-center&#34;&gt;
+       &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584889807/homepage/mistform/2dinteraction_bimmnn.png&#34; width=&#34;83%&#34; height = auto &gt;
+      &lt;p class=&#34;lead&#34;&gt; Context-awareble 2D Interaction for a single or multi user &lt;/p&gt;
+    &lt;/div&gt;
+        &lt;div class=&#34;col-md-5 pt-4 text-center&#34;&gt;
+        &lt;!-- &lt;img src=&#34;dzf_sketch.jpg&#34; width=&#34;70%&#34; height = auto class=&#34;mr-5 d-block&#34; &gt; --&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/dzfdemo_min_mar3as.jpg&#34; &gt;
+          &lt;source src=&#34;dzfdemo_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;dzfdemo_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/dzfdemo_min_mar3as.gif&#34; width=&#34;80%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+         &lt;p class=&#34;lead&#34; &gt; Natural 3D Depth Interaction&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-5 pt-4 text-center&#34;&gt;
+        &lt;!--  &lt;img src=&#34;multiview.jpg&#34; width=&#34;70%&#34; height = auto class=&#34;ml-5 d-block&#34; &gt; --&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/multiview_min_usiyp0.jpg&#34; &gt;
+          &lt;source src=&#34;multiview_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;multiview_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/multiview_min_usiyp0.gif&#34; width=&#34;80%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Multi-view 3D Imaging for Two Users&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt; Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-8&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;//www.youtube.com/embed/XXsfO_jIvg4&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt; Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+    &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Yutaka Tokuda, Mohd Adili Norasikin, Sriram Subraman, Diego Martinez Plasencia. 2017. &lt;strong&gt;MistForm: Adaptive Shape Changing Fog Screens. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems&lt;/em&gt; (CHI&#39;17), pp.4383--4395. &lt;a href= &#34;https://doi.org/10.1145/3025453.3025608&#34;&gt; https://doi.org/10.1145/3025453.3025608 &lt;/a&gt; &amp;nbsp;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;/publication/2017_paper_mistform/cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;http://sro.sussex.ac.uk/67147/1/paper1747.pdf&#34;&gt; &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF &lt;/i&gt;&lt;/a&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;MistForm.pptx&#34;&gt;&lt;i class=&#34;fas fa-file-powerpoint&#34;&gt; Slide [79.9MB] &lt;/i&gt; 
+    &lt;/a&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&#34;mynews&#34;&gt;
+  &lt;div class = &#34;container text-center text-black py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-danger&#34;&gt; &lt;i class=&#34;far fa-newspaper&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Selected Press Coverage
+    &lt;/h1&gt;
+  &lt;/div&gt;
+&lt;div class = &#34;container text-black pt-2 pb-4 mt-3&#34;&gt;
+&lt;div class=&#34;row row-cols-1 row-cols-md-3&#34;&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+  &lt;a href=&#34;https://locateeastsussex.org.uk/blog/2018-11-01-university-of-sussex-virtual-reality-lab&#34;&gt;
+      &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/eastsussex_deyltm.png&#34; alt=&#34;East Sussex News&#34;&gt;
+  &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Card --&gt;
+&lt;/div&gt;
+   &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.eurekamagazine.co.uk/design-engineering-features/technology/sussex-researchers-develop-a-system-that-is-more-interactive-and-easier-on-the-eye-than-vr/160265/&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/eureka_ukcusi.png&#34; alt=&#34;Eureka News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://eandt.theiet.org/content/articles/2017/05/shape-shifting-fog-screen-allows-for-3d-interaction-with-objects/&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/et_f3fzwd.png&#34; alt=&#34;E&amp;T News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://phys.org/news/2017-05-shape-changing-fog-screen.html&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/phyorg_s5juxf.png&#34; alt=&#34;Physorg News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.techbriefs.com/component/content/article/tb/stories/news/26908&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/techbrief_ryhjd6.png&#34; alt=&#34;Tech Briefs News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://newatlas.com/mistform-shape-shifting-fog-screen/49401/&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/newatlas_iy74sz.png&#34; alt=&#34;Newatlas News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.des-madrid.com/mistform-screen-projects-images-air/&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/des_zyywrn.png&#34; alt=&#34;Des-madrid News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://finance.yahoo.com/news/shape-shifting-fog-display-ushers-222728094.html&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/yahoofinance_xap3jg.png&#34; alt=&#34;Yahoo Finance News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://time-space.kddi.com/digicul-column/world/20170623/2014&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/kddi_jxvgka.png&#34; alt=&#34;Time-Space KDDI News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retroreflective Floating Display</title>
+      <link>https://ytokuda.github.io/projects/floating-display/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/floating-display/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+  &lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-1&#34;
+    style=&#34;background-image:url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,e_sharpen:100,c_fill,f_auto,h_510,o_70,q_auto,w_1348/v1584762557/homepage/floatingdisplay/header2_myyzvf.png)&#34;&gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+      &lt;h1&gt;  Retroreflective Floating Display &lt;/h1&gt;
+      &lt;h3 style=&#34;color:rgb(200,200,200);&#34;&gt;Mid-air Projection Screen based on Polarized Retroreflective Imaging System
+      &lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container pt-4 mt-1 pb-5&#34;&gt;
+      &lt;div class=&#34;row pt-5&#34;&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+          &lt;a href=&#34;https://www.microsoft.com/en-us/research/lab/applied-sciences-lab/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_84,q_auto:low,w_296/v1584769573/homepage/logo/microsoft_sravb6.png&#34;
+              width=&#34;80%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+          &lt;a href=&#34;http://www.cyber.t.u-tokyo.ac.jp/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_84,q_auto,w_296/v1584769573/homepage/logo/utcyber_sfzkb1.png&#34; width=&#34;80%&#34; height=auto
+              class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+          &lt;a href=&#34;http://www.yamamotolab.science/eng/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_84,q_auto,w_296/v1584769573/homepage/logo/yamamotolab_y54cfj.png&#34; width=&#34;80%&#34; height=auto
+              class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;myoverview&#34;&gt;
+    &lt;div class=&#34;container text-center text-white py-3&#34;&gt;
+      &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+      &lt;/h1&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container text-white my-2 pb-3&#34;&gt;
+      &lt;p class=&#34;text-justify&#34;&gt;With the advent of technology in 3D floating displays and hand-tracking sensors, people
+        can directly view and touch 3D objects in mid-air without wearing special devices such as 3D glasses and data
+        gloves. Conventional 3D floating displays, however, suffer from limited viewing angles and visual fatigues due
+        to &lt;a href=&#34;https://xinreality.com/wiki/Vergence-Accommodation_Conflict&#34;&gt;vergence-accommodation conflict&lt;/a&gt;. Recently, one of the solutions to these issues was addressed by aerial imaging by
+        retro-reflection (&lt;a href=&#34;https://www.osapublishing.org/oe/abstract.cfm?uri=oe-22-22-26919&#34;&gt;AIRR&lt;/a&gt;) in which
+        reflective sheeting is used to focus images in mid-air space. Conventional AIRR methods have limited its
+        applications due to the low light efficiency, and hence it is difficult to deploy standard LCDs to
+        create visible enough floating images. To improve the light efficiency of AIRR, we proposed a polarized AIRR
+        (pAIRR) method inspired by &lt;a href=&#34;https://spie.org/news/1363-polarized-light-backlights-for-liquid-crystal-displays?SSO=1&#34;&gt;LCD backlight recycling technique&lt;/a&gt;. Utilizing enhanced brightness, we explored a new optical
+        design to create 2.5D displays that provide visible floating images above a tabletop touch screen, which enables
+        users to smoothly interact with both floating digital objects and contents displayed on the touch screen. This research was initiated from my &lt;a
+          href=&#34;https://www.microsoft.com/en-us/research/project/floating-displays/&#34;&gt;research internship project&lt;/a&gt; at
+        &lt;a href=&#34;https://www.microsoft.com/en-us/research/lab/applied-sciences-lab/&#34;&gt;Applied Sciences Group in Microsoft
+          Research &lt;/a&gt; in Redmond. Furthere improvements of optical designs were investigated at &lt;a
+          href=&#34;http://www.cyber.t.u-tokyo.ac.jp/&#34;&gt; The University of Tokyo &lt;/a&gt; and &lt;a
+          href=&#34;http://www.yamamotolab.science/eng/&#34;&gt;Utsunomiya University &lt;/a&gt; in Japan. The project contributed to
+        industry commercializing the research outcome as novel &lt;a
+          href=&#34;https://www.carbide.co.jp/en/product/airial_display/&#34;&gt;aerial display components &lt;/a&gt; and &lt;a
+          href=&#34;https://airwitch.jp/&#34;&gt;DIY floating display kits&lt;/a&gt;.
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;myprinciple&#34;&gt;
+    &lt;div class=&#34;container text-center text-white py-2&#34;&gt;
+      &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Research Overview
+      &lt;/h1&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container text-center text-white mt-2 mb-4 pb-5&#34;&gt;
+      &lt;div class=&#34;row  no-gutters&#34;&gt;
+        &lt;div class=&#34;col-12&#34;&gt;
+            &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_1053/v1584766830/homepage/floatingdisplay/principle_u4n4jh.png&#34; width=&#34;90%&#34; height=auto&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-12 pt-1 pb-4&#34;&gt;
+          &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;1&lt;/i&gt;&lt;/span&gt;&amp;ensp;Polarized Aerial Imaging by Retroreflection (pAIRR)&lt;/p&gt; 
+        &lt;/div&gt;
+        &lt;div class=&#34;col-12 pb-2 &#34;&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_animated.progressive,q_auto,w_1060/f_auto/v1584767491/homepage/floatingdisplay/42inch_d0miwx.png&#34; width=&#34;93%&#34; height=auto&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-12 pt-1 pb-4&#34;&gt;
+          &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;2&lt;/i&gt;&lt;/span&gt;&amp;ensp;42-inch Floating Display Prototype System&lt;/p&gt; 
+        &lt;/div&gt;
+       &lt;div class=&#34;col-12 pb-2 &#34;&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_1060/v1584767340/homepage/floatingdisplay/pnlc_xmwcpj.png&#34; width=&#34;93%&#34; height=auto&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-12 pt-1 pb-4&#34;&gt;
+          &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;3&lt;/i&gt;&lt;/span&gt;&amp;ensp;Spatio Temporally Multiplexed 2.5D Floating Display&lt;/p&gt; 
+        &lt;/div&gt;
+        &lt;div class=&#34;col-12 pb-2 &#34;&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_1060/v1584767344/homepage/floatingdisplay/simplemethod_xbzz5g.png&#34; width=&#34;93%&#34; height=auto&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-12 pt-1 pb-4&#34;&gt;
+          &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;4&lt;/i&gt;&lt;/span&gt;&amp;ensp;Holographic Screen based 2.5D Floating Display&lt;/p&gt; 
+        &lt;/div&gt;
+        &lt;div class=&#34;col-12 pb-2 &#34;&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_1059/v1584767347/homepage/floatingdisplay/tairr_z0zjx3.png&#34; width=&#34;93%&#34; height=auto&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-12 pt-1 pb-4&#34;&gt;
+          &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;5&lt;/i&gt;&lt;/span&gt;&amp;ensp;2.5D LED Floating Display by Transparent Retroreflector&lt;/p&gt; 
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;mydemo&#34;&gt;
+    &lt;div class=&#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+      &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+      &lt;/h1&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+      &lt;div class=&#34;row align-items-center text-center&#34;&gt;
+      &lt;div class=&#34;col-12 mt-1 mb-3 badge badge-pill badge-secondary&#34;&gt;
+        &lt;h2 style=&#34;margin: 1px 1px auto; color:white;&#34;&gt; First Prototype Works&lt;/h2&gt; 
+      &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/earth_b2dct3.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;earth.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;earth.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/earth_b2dct3.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Little Earth &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584777239/homepage/floatingdisplay/gif/planet_qzddr1.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+            &lt;source src=&#34;planet.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+             &lt;source src=&#34;planet.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+            &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584777239/homepage/floatingdisplay/gif/planet_qzddr1.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Solar System &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/spark_d7v4va.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;spark.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;spark.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/spark_d7v4va.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Electric Arc &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/magicbook_zhjmos.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;magicbook.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;magicbook.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/magicbook_zhjmos.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; 2.5D Sparkling Spellbook &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/microsoft_seyn1s.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;microsoft.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;microsoft.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/microsoft_seyn1s.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; 2.5D GUI &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/dragon_d93dwd.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;dragon.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;dragon.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/dragon_d93dwd.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; 2.5D Floating Dragon &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;div class=&#34;col-12 mt-5 mb-3 badge badge-pill badge-secondary&#34;&gt;
+       &lt;h2 style=&#34;margin: 1px 1px auto; color:white;&#34;&gt; Second Prototype Works &lt;/&lt;h2&gt; 
+      &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/unitychan_w2bx5h.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;unitychan.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;unitychan.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/unitychan_w2bx5h.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; 42-inch Unity-Chan &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/plasma_xgviex.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;plasma.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;plasma.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/plasma_xgviex.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; 42-inch Plasma Ball&lt;/p&gt;
+        &lt;/div&gt;
+       &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/r2d2_stvl5o.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;r2d2.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;r2d2.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/r2d2_stvl5o.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; 2.5D Solar System&lt;/p&gt;
+       &lt;/div&gt;
+      &lt;div class=&#34;col-12 mt-5 mb-3 badge badge-pill badge-secondary&#34;&gt;
+        &lt;h2 style=&#34;margin: 1px 1px auto;color:white;&#34;&gt; Other Fun Works &lt;/h2&gt; 
+      &lt;/div&gt;
+       &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/tairr_aksvrb.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;tairr.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;tairr.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/tairr_aksvrb.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; 2.5D Floating LED Display &lt;/p&gt;
+       &lt;/div&gt;
+      &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/3DObjects_ianboc.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;3DObjects.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;3DObjects.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/3DObjects_ianboc.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Floating 3D Object &lt;/p&gt;
+      &lt;/div&gt;
+       &lt;div class=&#34;col-md-4&#34;&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/water_j4m2tn.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;water.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;water.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/floatingdisplay/gif/water_j4m2tn.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Floating Image over Water Surface &lt;/p&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;myvideo&#34;&gt;
+    &lt;div class=&#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+      &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video
+      &lt;/h1&gt;
+      &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+        &lt;div class=&#34;col-sm-6&#34;&gt;
+          &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+            &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://www.youtube.com/embed/Pny1SFsmRwM&#34;&gt;&lt;/iframe&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-6&#34;&gt;
+          &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+            &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://www.youtube.com/embed/TPH35eVDbFY&#34;&gt;&lt;/iframe&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;mypublication&#34;&gt;
+    &lt;div class=&#34;container text-center text-white py-3&#34;&gt;
+      &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Publications
+      &lt;/h1&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+      &lt;p&gt;
+        &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Yutaka Tokuda, Kenta Onuki, Masashi Takahashi, Sho Onose,
+        Tomoyuki Okamoto, Michitaka Hirose, Hirotsugu Yamamoto. 2015. &lt;strong&gt;Aerial Imaging by Retro Reflection with
+          Transparent Retro Reflector (AIRR with TRR). &lt;/strong&gt;
+        &lt;em&gt;The 22nd International Display Workshops&lt;/em&gt; (IDW&#39;15), pp.830--833. &lt;a
+          href=&#34;https://www.idw.or.jp/15record.html&#34;&gt; https://www.idw.or.jp/15record.html &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+        &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;citeIDW15.bib&#34;&gt;&lt;i
+            class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+        &lt;a class=&#34;badge badge-pill badge-primary&#34;
+          href=&#34;https://www.researchgate.net/profile/Yutaka_Tokuda/publication/315859478_Aerial_Imaging_by_Retro-Reflection_with_Transparent_Retro-Reflector_AIRR_with_TRR/links/58ebe78b4585153b60c98119/Aerial-Imaging-by-Retro-Reflection-with-Transparent-Retro-Reflector-AIRR-with-TRR.pdf&#34;&gt;
+          &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [486KB] &lt;/i&gt;&lt;/a&gt;
+        &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;IDW2015_ytokuda.pptx&#34;&gt;&lt;i class=&#34;fas fa-file-powerpoint&#34;&gt; Slide
+            [4.97MB] &lt;/i&gt; &lt;/a&gt; &amp;nbsp;&lt;strong&gt; [Best Paper Award]&lt;/strong&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+        &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Yutaka Tokuda, Atsushi Hiyama, Michitaka Hirose, Tim Large. 2014.
+        &lt;strong&gt;Comparison of Material Combinations for Bright and Clear Floating Image by Retro-reflective Re-imaging
+          Technique. &lt;/strong&gt;
+        &lt;em&gt;The 21st International Display Workshops&lt;/em&gt; (IDW&#39;14), pp.818--819. &lt;a
+          href=&#34;https://www.idw.or.jp/14record.html&#34;&gt; https://www.idw.or.jp/14record.html &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+        &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;citeIDW14.bib&#34;&gt;&lt;i
+            class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+        &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;IDW2014.pdf&#34;&gt; &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [175KB] &lt;/i&gt;&lt;/a&gt;
+        &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;IDW2014_ytokuda.pptx&#34;&gt;&lt;i class=&#34;fas fa-file-powerpoint&#34;&gt; Slide
+            [3.02MB] &lt;/i&gt; &lt;/a&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+        &lt;span class=&#34;badge badge-info&#34; style=&#34;background-color: rgb(200,0,200);&#34;&gt;Patent&lt;/span&gt; Hirotsugu Yamamoto,
+        Yutaka Tokuda, Shusei Ito, Nao Kurokawa. 2018. &lt;strong&gt; DISPLAY DEVICE, AND DISPLAY METHOD FOR AERIAL IMAGE.
+        &lt;/strong&gt;
+        &lt;a href=&#34;https://patents.google.com/patent/US20180284470A1/en&#34;&gt; US Patent App. 16/002,592 &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+        &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;citePatent18.bib&#34;&gt;&lt;i
+            class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+        &lt;a class=&#34;badge badge-pill badge-primary&#34;
+          href=&#34;https://patentimages.storage.googleapis.com/e1/89/d8/a8e89d25c40f68/US20180284470A1.pdf&#34;&gt; &lt;i
+            class=&#34;fas fa-file-pdf&#34;&gt; PDF [6.35MB] &lt;/i&gt; &lt;/a&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+        &lt;span class=&#34;badge badge-info&#34; style=&#34;background-color: rgb(200,0,200);&#34;&gt;Patent&lt;/span&gt; Karlton Powell, Tim
+        Large, Yutaka Tokuda . 2017. &lt;strong&gt; Control of polarization and diffractive artifact resolution in
+          retro-imaging systems. &lt;/strong&gt;
+        &lt;a href=&#34;https://patents.google.com/patent/US9798154B2/en&#34;&gt; US Patent 9,798,154 &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+        &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;citePatent17.bib&#34;&gt;&lt;i
+            class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+        &lt;a class=&#34;badge badge-pill badge-primary&#34;
+          href=&#34;https://patentimages.storage.googleapis.com/26/95/d4/363d69a6964767/US9798154.pdf&#34;&gt; &lt;i
+            class=&#34;fas fa-file-pdf&#34;&gt; PDF [2.3MB] &lt;/i&gt; &lt;/a&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+        &lt;span class=&#34;badge badge-warning&#34;&gt;Demo&lt;/span&gt; Yutaka Tokuda, Atsushi Hiyama, Michitaka Hirose, Hirotsugu
+        Yamamoto. 2015. &lt;strong&gt; R2D2 w/ AIRR: real time &amp; real space double-layered display with aerial imaging by
+          retro-reflection. &lt;/strong&gt; &lt;em&gt;SIGGRAPH Asia 2015 Emerging Technologies&lt;/em&gt; (SA&#39;15)
+        &lt;a href=&#34;https://doi.org/10.1145/2818466.2818484&#34;&gt; https://doi.org/10.1145/2818466.2818484 &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+        &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;citeSA15.bib&#34;&gt;&lt;i
+            class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+        &lt;a class=&#34;badge badge-pill badge-primary&#34;
+          href=&#34;https://www.researchgate.net/profile/Yutaka_Tokuda/publication/301463384_R2D2_w_AIRR_real_time_real_space_double-layered_display_with_aerial_imaging_by_retro-reflection/links/57e4de5d08aee9b409fc609a/R2D2-w-AIRR-real-time-real-space-double-layered-display-with-aerial-imaging-by-retro-reflection.pdf&#34;&gt;
+          &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [830KB] &lt;/i&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;SAEtech2015.pptx&#34;&gt;&lt;i class=&#34;fas fa-file-powerpoint&#34;&gt; Slide [3.69MB] &lt;/i&gt;
+         &lt;/a&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;mynews&#34;&gt;
+    &lt;div class=&#34;container text-center text-black py-3&#34;&gt;
+      &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-danger&#34;&gt; &lt;i class=&#34;far fa-newspaper&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Selected Press Coverage
+      &lt;/h1&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container text-black pt-2 pb-4 mt-3&#34;&gt;
+      &lt;div class=&#34;row row-cols-1 row-cols-md-3&#34;&gt;
+        &lt;div class=&#34;col mb-2&#34;&gt;
+          &lt;div class=&#34;card h-20&#34;&gt;
+            &lt;!--Card image--&gt;
+            &lt;div class=&#34;view overlay&#34;&gt;
+              &lt;a href=&#34;https://spie.org/news/6428-polarized-aerial-imaging-by-retroreflection-for-25d-floating-image-displays?SSO=1&#34;&gt;
+                &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_326,q_auto,w_368/v1584769490/homepage/presscoverage/floating/spie_ff705l.png&#34; alt=&#34;Card image cap&#34;&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- Card --&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col mb-2&#34;&gt;
+          &lt;div class=&#34;card h-20&#34;&gt;
+            &lt;!--Card image--&gt;
+            &lt;div class=&#34;view overlay&#34;&gt;
+              &lt;a href=&#34;https://mspoweruser.com/surface-phones-holographic-display/&#34;&gt;
+                &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_326,q_auto,w_368/v1584769490/homepage/presscoverage/floating/mspower_epiat0.png&#34; alt=&#34;Card image cap&#34;&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- Card --&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col mb-2&#34;&gt;
+          &lt;div class=&#34;card h-20&#34;&gt;
+            &lt;!--Card image--&gt;
+            &lt;div class=&#34;view overlay&#34;&gt;
+              &lt;a href=&#34;https://www.windowsteca.net/2014/05/viiboard-floating-display-interessanti-concept-by-microsoft-research/&#34;&gt;
+                &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_326,q_auto,w_368/v1584769490/homepage/presscoverage/floating/windowsteca_h5fe3n.png&#34; alt=&#34;Card image cap&#34;&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- Card --&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col mb-2&#34;&gt;
+          &lt;div class=&#34;card h-20&#34;&gt;
+            &lt;!--Card image--&gt;
+            &lt;div class=&#34;view overlay&#34;&gt;
+              &lt;a
+                href=&#34;https://xtech.nikkei.com/dm/article/MAG/20150113/398500/&#34;&gt;
+                &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_326,q_auto,w_368/v1584769490/homepage/presscoverage/floating/nikkei_bzjchc.png&#34; alt=&#34;Card image cap&#34;&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- Card --&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile Embodied 3D Avatar</title>
+      <link>https://ytokuda.github.io/projects/mobileavatar/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/mobileavatar/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-2 pb-5&#34; style=&#34;background-position: top; background-image: url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,c_scale,e_sharpen:100,f_auto,fl_progressive,o_60,q_auto:low,w_1380/v1584924291/homepage/mobileavatar/header_wjo9bk.png)&#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; Mobile Embodied 3D Avatar &lt;/h1&gt;
+        &lt;h3 style=&#34;color:rgb(200,200,200);&#34;&gt;Walkable Holographic Telepresence System for a Senior Cloud Worker&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container pb-5 mt-1&#34;&gt;
+      &lt;div class=&#34;row pt-5 pb-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+          &lt;a href=&#34;http://www.cyber.t.u-tokyo.ac.jp/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_84,q_auto,w_296/v1584769573/homepage/logo/utcyber_sfzkb1.png&#34; width=&#34;100%&#34; height = auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+         &lt;a href=&#34;http://sc.cyber.t.u-tokyo.ac.jp/en/overview.html&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_84,q_auto,w_296/v1584769573/homepage/logo/sinnovation_cvyfwj.png&#34; width=&#34;100%&#34; height = auto class=&#34;mx-auto d-block&#34; &gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+       &lt;p class=&#34;text-justify&#34;&gt;&lt;a href=&#34;https://www.wikiwand.com/en/Telepresence&#34;&gt;Telepresence&lt;/a&gt; technology can provide an alternative working style for seniors who want to continuously contribute to society after retirment by delivering their experiences and know-hows to a young generation. Conventional telepresence methods are, however, limited to a face-to-face communication utilizing a static flat-panel display or a physically constrained humanoid robot, which lack the presence of a remote operator, non-verbal communication cues such as a body language, and the freedom of mobility. In this project, we explored a mobile embodied 3D avatar system to shift a rich expressiveness of full-body avatar from virtual world to daily life by integrating a high maneuvability into a human-scale semi-transparent holographic display. We investigated a novel architecture to contorl embodied multimodal avatar by deploying a multimodal behavior generation framework, &lt;a href=&#34;https://link.springer.com/chapter/10.1007%2F11821830_17&#34;&gt;SAIBA&lt;/a&gt; (Situation, Agent, Intention, Behavior, Animation). Synergy effects of a physical movement through a moveable robotic display and a smooth computer graphic animaiton visualized on a 3D display demonstrated a dynamic visual media expression for &lt;a href=&#34;https://web.archive.org/web/19981205111134/http://www.cs.unc.edu/~raskar/Office/&#34;&gt;Spatial Augmented Reality&lt;/a&gt;, which can improve the presence and non-verbal communication cues of a remote operator.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Overview
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-center text-white mt-2 mb-4 pb-5&#34;&gt;
+  &lt;div class=&#34;row  no-gutters&#34; &gt;
+   &lt;div class=&#34;col-12&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584924219/homepage/mobileavatar/overview_nbfjbh.png&#34; width=&#34;80%&#34; height = auto &gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row align-items-center text-center&#34; &gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/jyugyou_mzf6nr.jpg&#34; width=&#34;370&#34; height=&#34;231&#34;&gt;
+          &lt;source src=&#34;jyugyou.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;jyugyou.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/jyugyou_mzf6nr.gif&#34; class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+         &lt;p class=&#34;lead&#34;&gt; Remote Lecture from Home &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/bearanimation_bwztxf.jpg&#34; width=&#34;370&#34; height=&#34;231&#34;&gt;
+          &lt;source src=&#34;bearanimation.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;bearanimation.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/bearanimation_bwztxf.gif&#34; class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Dynamical 3D Depth Animation&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/mario_fdww9p.jpg&#34; width=&#34;370&#34; height=&#34;231&#34;&gt;
+          &lt;source src=&#34;mario.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;mario.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mobileavatar/mario_fdww9p.gif&#34; class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Outdoor Test &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-9&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/65499231&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+   &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Yutaka Tokuda, Atsushi Hiyama, Takahiro Miura, Tomohiro Tanikawa, Michitaka Hirose. 2013. &lt;strong&gt;Towards Mobile Embodied 3D Avatar as Telepresence Vehicle. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 7th International Conference on Universal Access in Human-Computer Interaction&lt;/em&gt; (UAHCI&#39;13), &lt;br&gt; pp.671--680. Springer. &lt;a href= &#34;https://link.springer.com/chapter/10.1007%2F978-3-642-39194-1_77&#34;&gt; https://doi.org/10.1007%2F978-3-642-39194-1_77 &lt;/a&gt; &amp;nbsp;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;cite2013.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+   &lt;/p&gt;
+    &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Masahiko Izumi, Tomoya Kikuno, Yutaka Tokuda, Atsushi Hiyama, Takahiro Miura, Michitaka Hirose. 2014. &lt;strong&gt;Practical Use of a Remote Movable Avatar Robot with an Immersive Interface for Seniors. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 8th International Conference on Universal Access in Human-Computer Interaction&lt;/em&gt; (UAHCI&#39;14), pp.648--659. Springer. &lt;a href= &#34;https://link.springer.com/chapter/10.1007/978-3-319-07446-7_62&#34;&gt; https://doi.org/10.1007/978-3-319-07446-7_62 &lt;/a&gt; &amp;nbsp;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;cite2014.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vortex Ring Display</title>
+      <link>https://ytokuda.github.io/projects/vortexring/</link>
+      <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/vortexring/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-2 pb-5&#34; style=&#34;background-position: center; background-image: url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,e_sharpen:100,f_auto,fl_progressive,o_90,q_auto:low/v1584929703/homepage/vortexring/header_nfyub5.png)&#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; Vortex Ring Display &lt;/h1&gt;
+        &lt;h3 style=&#34;color:rgb(200,200,200);&#34;&gt;Floating Particle Screen by Vortex Ring Mass Transport&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container mt-1 pb-5&#34;&gt;
+      &lt;div class=&#34;row pt-5 pb-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+          &lt;a href=&#34;http://www.cyber.t.u-tokyo.ac.jp/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_84,q_auto,w_296/v1584769573/homepage/logo/utcyber_sfzkb1.png&#34; width=&#34;80%&#34; height = auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+      &lt;p class=&#34;text-justify&#34;&gt;It has been fundamental challenges for particle floating displays to maintain a group of particles as a non-turbulent projection screen. While a fog screen has been the standard method of particle floating displays, it requires a high-pressure particle diffuser or an air curtain system to stabilize the flow of particles within a thin layer or a certain small volume around particle diffuser; the depth expression is limited by the volume of a fog screen system. To form a laminar particle screen in the outside free space, alternative particle control techniques must be examined. We proposed Vortex Ring Display as a novel projectile fog screen which can significantly extend the stability of a laminar fog screen in a large depth. &lt;a href=&#34;https://www.wikiwand.com/en/Vortex_ring&#34;&gt;Vortex ring&lt;/a&gt; has been well known for the unique vortex stability and transportation capability, which encompasses a slug of particles within a circulating volume and thus continuously fly at the constant speed without dispersing the particles in the surrounding air. We extensively studied the usability and limitation of vortex ring displays from viewpoints of stability and quality of floating images. Our empirical study showed that vortex ring display can physically transport a floating screen toward a distant user who stands at four meters of distance away from the display system, supporting a large depth of 3D expression without vergence-accommodation conflict. The relationship between the stability of vortex ring and the quality of projected floating images was studied to find the optimal condition. Taking advantage of vortex ring&#39;s &lt;a href =&#34;https://la.disneyresearch.com/publication/aireal-interactive-tactile-experiences-in-free-air/&#34;&gt;mid-air haptics feedback&lt;/a&gt; and capability of &lt;a href =&#34;http://vrlab.meijo-u.ac.jp/research/ScentProjector/index.html&#34;&gt;delivering scented air&lt;/a&gt; together, vortex ring display can be used as a multisensory floating interface for &lt;a href=&#34;https://www.wikiwand.com/simple/4D_movie&#34;&gt;4D movie&lt;/a&gt; and high-presence digital signage. Furthermore, vortex ring arrays based display system, Cloud display, was examined as the method to extend the imaging space for multi-users. This research was conducted under the support of &lt;a href=&#34;https://www.jst.go.jp/kisoken/crest/en/index.html&#34;&gt;CREST&lt;/a&gt; Digital Public Art Project.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Overview
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-center text-white mt-2 mb-4 pb-5&#34;&gt;
+  &lt;div class=&#34;row  no-gutters&#34; &gt;
+   &lt;div class=&#34;col-12&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto:low,w_1000/v1584929703/homepage/vortexring/principle_hw2nog.png&#34; width=&#34;70%&#34; height = auto &gt;
+  &lt;/div&gt;
+    &lt;div class=&#34;col-12 pt-2&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;1&lt;/i&gt;&lt;/span&gt;&amp;ensp;Vortex Ring Display&lt;/p&gt; 
+  &lt;/div&gt;
+     &lt;div class=&#34;col-12 pt-3&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_1000/v1584929703/homepage/vortexring/clouddisplay_wubxrf.png&#34; width=&#34;70%&#34; height = auto &gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-12 pt-2&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;2&lt;/i&gt;&lt;/span&gt;&amp;ensp;Cloud Display&lt;/p&gt; 
+  &lt;/div&gt;
+       &lt;div class=&#34;col-12 pt-3&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_1000/v1584929703/homepage/vortexring/vision_eszr7m.png&#34; width=&#34;70%&#34; height = auto &gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-2&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;3&lt;/i&gt;&lt;/span&gt;&amp;ensp;Volumetric 3D Particle Display&lt;/p&gt; 
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row align-items-center text-center&#34; &gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/vortexring/butterfly_nboae8.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;butterfly.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;butterfly.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/vortexring/butterfly_nboae8.gif&#34; class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+         &lt;p class=&#34;lead&#34;&gt; Flapping Butterfly &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/vortexring/dice_q7odlb.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;dice.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;dice.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/vortexring/dice_q7odlb.gif&#34; class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Rolling Dice &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/vortexring/digitalsignage_b4pn1n.jpg&#34; width=&#34;370&#34; height=&#34;230&#34;&gt;
+          &lt;source src=&#34;digitalsignage.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;digitalsignage.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/vortexring/digitalsignage_b4pn1n.gif&#34; class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; 3D Fragrance Digital Signage &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-8&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://www.youtube.com/embed/psoyU83Qrgo&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+    &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Yutaka Tokuda, Kunihiro Nishimura, Yasuhiro Suzuki, Tomohiro Tanikawa, Michitaka Hirose. 2009. &lt;strong&gt;A Proposal for a Vortex Ring Display. &lt;/strong&gt;
+          &lt;em&gt;Journal of Information Processing Society of Japan&lt;/em&gt; (Japanese), Vol.50, No.12, pp.2853--2862. &lt;a href= &#34;http://id.nii.ac.jp/1001/00067517/&#34;&gt; http://id.nii.ac.jp/1001/00067517/ &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;cite_IPSJ2009.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+           &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&amp;item_id=67517&amp;file_id=1&amp;file_no=1&#34;&gt; &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [2.4MB] &lt;/i&gt;&lt;/a&gt;
+   &lt;/p&gt;
+    &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Yutaka Tokuda, Kunihiro Nishimura, Yasuhiro Suzuki, Tomohiro Tanikawa, Michitaka Hirose. 2010. &lt;strong&gt;Vortex ring based display. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 16th International Conference on Virtual Systems and Multimedia&lt;/em&gt; (VSMM&#39;10), pp.51--54. &lt;a href= &#34;https://doi.org/10.1109/VSMM.2010.5665968&#34;&gt; https://doi.org/10.1109/VSMM.2010.5665968 &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;cite_VSMM2010.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+          &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;https://www.researchgate.net/profile/Yutaka_Tokuda/publication/251975706_Vortex_ring_based_display/links/597dd579aca272d56817b4e3/Vortex-ring-based-display.pdf&#34;&gt; &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [0.54MB] &lt;/i&gt;&lt;/a&gt;  &amp;nbsp; &lt;strong&gt; [Best Paper Award]&lt;/strong&gt; 
+   &lt;/p&gt;
+      &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Yutaka Tokuda, Yasuhiro Suzuki, Kunihiro Nishimura, Tomohiro Tanikawa, Michitaka Hirose. 2010. &lt;strong&gt;Cloud display. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 7th International Conference on Advances in Computer Entertainment Technology&lt;/em&gt; (ACE&#39;10), pp.32--35. &lt;a href= &#34;https://doi.org/10.1145/1971630.1971640&#34;&gt; https://doi.org/10.1145/1971630.1971640 &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;cite_ACE2010.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+          &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;https://www.researchgate.net/profile/Yutaka_Tokuda/publication/220982650_Cloud_Display/links/597dd5d1a6fdcc1a9accaec8/Cloud-Display.pdf&#34;&gt; &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [7.3MB] &lt;/i&gt;&lt;/a&gt; 
+   &lt;/p&gt;
+    &lt;p&gt;
+      &lt;span class=&#34;badge badge-secondary&#34;&gt;Poster&lt;/span&gt; Yutaka Tokuda, Yasuhiro Suzuki, Kunihiro Nishimura, Tomohiro Tanikawa, Michitaka Hirose. 2010. &lt;strong&gt;Controllable vortex display. &lt;/strong&gt;
+          &lt;em&gt;ACM SIGGRAPH 2008 Posters.&lt;/em&gt; &lt;a href= &#34;https://doi.org/10.1145/1400885.1400939&#34;&gt; https://doi.org/10.1145/1400885.1400939 &lt;/a&gt; &amp;nbsp;&lt;br&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;cite_ACE2010.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt; &amp;nbsp; [Student Research Competition Semi Finalist] &lt;/strong&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tree Shaded Screen</title>
+      <link>https://ytokuda.github.io/projects/treeshaded/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/treeshaded/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-1&#34; style=&#34;background-position: bottom; background-image: url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,e_sharpen:100,f_auto,fl_progressive,o_70,q_auto:low/v1584919187/homepage/treeshaded/header_jal9ch.png)&#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; Tree Shaded Screen &lt;/h1&gt;
+        &lt;h3 style=&#34;color:rgb(220,220,220);&#34;&gt;A Large Retroreflective Propeller Screen for Digital Public Art&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container mt-1&#34;&gt;
+      &lt;div class=&#34;row pt-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+          &lt;a href=&#34;http://www.cyber.t.u-tokyo.ac.jp/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_84,q_auto:best,w_296/v1584769573/homepage/logo/utcyber_sfzkb1.png&#34; width=&#34;80%&#34; height = auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+      &lt;p class=&#34;text-justify&#34;&gt;Tree-shaded screen is an interactive artwork for the public space. One can also think of it as a novel public augmented reality display system. The design aimed to make the entire display system as a short resting place for pedestrians walking by it, which is like a mother tree that shades and relaxes many living things in nature. The artwork consists of a toric couch, a screen-supporting pillar, and a propeller screen made of six light-weight blades. By resting on the couch, we can see the floating image projected on the propeller screen above. The display utilized &lt;a href=&#34;https://www.wikiwand.com/en/Persistence_of_vision&#34;&gt;persistence of vision &lt;/a&gt; to form a complete continuous image from the spinning propeller screen. To compensate for the environmental light in the public place, the propeller&#39;s blades were made of a &lt;a href=&#34;https://www.wikiwand.com/en/Retroreflector&#34;&gt; retroreflective &lt;/a&gt; screen material which can directionally reflect the projected images to viewers under the screen.  The work was demonstrated as a &lt;a href=&#34;https://www.youtube.com/watch?v=PKiCwBQamr8&#34;&gt;digital public art installation&lt;/a&gt; in &lt;a href=&#34;https://tokyo-haneda.com/en/&#34;&gt; Tokyo International Airport (Haneda Airport) &lt;/a&gt;, which is the biggest airport in Japan. We visualized the flight schedule at Haneda airport with avatars of animated bird pictures and projected them on the propeller screen. A virtual flight ticket registration system allowed users to interactively create their custom avatars based on their flight information and their profile pictures. To relieve the body of a user, the couch was made of a plastic-fiber based cushion material, &lt;a href=&#34;https://www.toyobo-global.com/seihin/breathair/&#34;&gt;TOYOBO BREATHAIR &lt;/a&gt;, which imitates an organic 3D structure of bird&#39;s nest made of mutually entangled fibers. This work was first experimentally exhibited for three days at The University of Tokyo Komaba Research Campus Open House, and then a four-month public exhibition was held in Haneda airport between October 2009 and January 2010. This research was conducted in collaboration with a media artist &lt;a href=&#34;http://www.mabataki.com/en/&#34;&gt;Yasuhiro Suzuki&lt;/a&gt; under the support of CREST Digital Public Art Project. 
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Ideas
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-center text-white mt-2 mb-4 pb-5&#34;&gt;
+  &lt;div class=&#34;row  no-gutters&#34; &gt;
+   &lt;div class=&#34;col-12&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584919187/homepage/treeshaded/vision_p9ulnm.png&#34; width=&#34;80%&#34; height = auto &gt;
+  &lt;/div&gt;
+    &lt;div class=&#34;col-12 pt-2&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;1&lt;/i&gt;&lt;/span&gt;&amp;ensp;Vision of Spatially Augmented Resting Place in Public Space&lt;/p&gt; 
+  &lt;/div&gt;
+     &lt;div class=&#34;col-12 pt-3&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584919187/homepage/treeshaded/system_ylcv11.png&#34; width=&#34;80%&#34; height = auto &gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-12 pt-2&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;2&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Overview&lt;/p&gt; 
+  &lt;/div&gt;
+       &lt;div class=&#34;col-12 pt-3&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584919187/homepage/treeshaded/design_rukgps.png&#34; width=&#34;80%&#34; height = auto &gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-2&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;3&lt;/i&gt;&lt;/span&gt;&amp;ensp;Design and User Experience&lt;/p&gt; 
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row align-items-center text-center&#34; &gt;
+        &lt;div class=&#34;col-md-6&#34;&gt;
+          &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,h_310,q_auto,w_551/v1584919187/homepage/treeshaded/clock_gfjnkb.png&#34; width=&#34;100%&#34; height = auto class=&#34;mx-auto d-block&#34; &gt;
+         &lt;p class=&#34;lead&#34;&gt; Floating Clock (1st prototype) &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-6&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584919187/homepage/treeshaded/treedemo_jk88ha.jpg&#34; &gt;
+           &lt;source src=&#34;treedemo.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;treedemo.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584919187/homepage/treeshaded/treedemo_jk88ha.gif&#34; width=&#34;100%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; University of Tokyo Open House Demo (2nd prototype) &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-8&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://www.youtube.com/embed/fk_W4lA68zs&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+    &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Kunihiro Nishimura, Yasuhiro Suzuki, Yutaka Tokuda, Tomohiro Iida, Takashi Kajinami, Tomohiro Tanikawa, Michitaka Hirose. 2009. &lt;strong&gt;Tree-shaded screen: A Propeller type screen for Public Art. &lt;/strong&gt;
+          &lt;em&gt;In Proceeding of the Joint Virtual Reality Conference of EGVE - ICAT - EuroVR 2009 &lt;/em&gt; (JVRC09). pp.101--104. &lt;a href= &#34;https://doi.org/10.2312/EGVE/JVRC09/101-104&#34;&gt; https://doi.org/10.2312/EGVE/JVRC09/101-104 &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+           &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;http://diglib.eg.org/bitstream/handle/10.2312/EGVE.JVRC09.101-104/101-104.pdf?sequence=1&amp;isAllowed=y&#34;&gt; &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [905.4KB] &lt;/i&gt;&lt;/a&gt;
+   &lt;/p&gt;
+    &lt;p&gt;
+      &lt;span class=&#34;badge badge-danger&#34;&gt;Book&lt;/span&gt; Digital Public Art in Haneda Airport 空気の港 テクノロジー×空気で感じる新しい世界 (Japanese), 美術出版社, Mar.20 2010. &lt;br&gt;
+       &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;https://www.amazon.co.jp/Digital-Public-Haneda-Airport-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%C3%97%E7%A9%BA%E6%B0%97%E3%81%A7%E6%84%9F%E3%81%98%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C/dp/4568103835&#34;&gt; &lt;i class=&#34;fab fa-amazon&#34;&gt; ¥2,200&lt;/i&gt;&lt;/a&gt; 
+       &lt;br&gt; &lt;br&gt;
+      &lt;a href=&#34;https://www.amazon.co.jp/Digital-Public-Haneda-Airport-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%C3%97%E7%A9%BA%E6%B0%97%E3%81%A7%E6%84%9F%E3%81%98%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C/dp/4568103835&#34;&gt;&lt;img alt=&#34;&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584919187/homepage/treeshaded/book_qkkh2q.png&#34; style=&#34;width:30em&#34; &gt; &lt;/a&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

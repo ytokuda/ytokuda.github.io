@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Particle | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/tags/particle/</link>
+      <atom:link href="https://ytokuda.github.io/tags/particle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Particle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Particle</title>
+      <link>https://ytokuda.github.io/tags/particle/</link>
+    </image>
+    
+    <item>
+      <title>MistForm</title>
+      <link>https://ytokuda.github.io/projects/mistform/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/mistform/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-1&#34; style=&#34;background-image: url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,f_auto,fl_progressive,o_70,q_auto:low/v1584889806/homepage/mistform/header_l5abjc.jpg)&#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; MistForm &lt;/h1&gt;
+        &lt;h3 style=&#34;color:rgb(200,200,200);&#34;&gt;Adaptive Shape Changing Fog Screens for 3D Spatial Interactions&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container mt-1&#34;&gt;
+      &lt;div class=&#34;row pt-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+         &lt;a href=&#34;http://interact-lab.com/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769573/homepage/logo/interactlab_djohtp.png&#34; width=&#34;70%&#34; height = auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+       &lt;p class=&#34;text-justify&#34;&gt;We propose MistForm, a shape changing fog display that can support one or two users spatially interacting with either 2D or 3D content. Mistform combines affordances from both shape changing interfaces and mid-air displays. For example, a concave display can maintain content in comfortable reach for a single user, while a convex shape can support several users engaged on individual tasks. MistForm also enables unique interaction possibilities by exploiting the synergies between shape changing interfaces and mid-air fog displays. For instance, moving the screen will affect the brightness and blurriness of the screen at specific locations around the display, creating spaces with similar (collaboration) or different visibility (personalized content). We describe the design of MistForm and analyse its inherent challenges, such as image distortion and uneven brightness on dynamic curved surfaces. We provide a machine learning approach to characterize the shape of the screen and a rendering algorithm to remove aberrations. We finally explore novel interactive possibilities and reflect on their potential and limitations.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Work Flow
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-center text-white mt-2 mb-4 pb-5&#34;&gt;
+  &lt;div class=&#34;row  no-gutters&#34; &gt;
+   &lt;div class=&#34;col-12&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_fit,e_sharpen:100,f_auto,fl_progressive,q_auto:low,w_1100/v1584889807/homepage/mistform/principle_q5ee2r.png&#34; width=&#34;100%&#34; height = auto &gt;
+  &lt;/div&gt;
+   &lt;div class=&#34;col-6 pt-1&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/fogdeform_mnqdrw.jpg&#34; &gt;
+          &lt;source src=&#34;fogdeform.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;fogdeform.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/fogdeform_mnqdrw.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+    &lt;div class=&#34;col-6 pt-1&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/pipemotion_i7ahgn.jpg&#34; &gt;
+          &lt;source src=&#34;pipemotion.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;pipemotion.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/pipemotion_i7ahgn.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-1&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;1&lt;/i&gt;&lt;/span&gt;&amp;ensp;Dynamic Actuation of Immaterial Fog Screen&lt;/p&gt; 
+  &lt;/div&gt;
+     &lt;div class=&#34;col-6 pt-3&#34;&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/calibration_odz2jq.jpg&#34; &gt;
+          &lt;source src=&#34;calibration.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;calibration.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/calibration_odz2jq.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+    &lt;div class=&#34;col-6 pt-3&#34;&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/machinelearning_pwwvcg.jpg&#34; &gt;
+          &lt;source src=&#34;machinelearning.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;machinelearning.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/machinelearning_pwwvcg.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-1&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;2&lt;/i&gt;&lt;/span&gt;&amp;ensp;Calibration and Modeling of Shape Changing Fog Screen&lt;/p&gt; 
+  &lt;/div&gt;
+       &lt;div class=&#34;col-6 pt-3&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/projection_wjirqw.jpg&#34; &gt;
+          &lt;source src=&#34;projection.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;projection.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/projection_wjirqw.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+    &lt;div class=&#34;col-6 pt-3&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/correction_mco8u0.jpg&#34; &gt;
+          &lt;source src=&#34;correction.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;correction.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/correction_mco8u0.gif&#34; width=&#34;99.5%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-1&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;3&lt;/i&gt;&lt;/span&gt;&amp;ensp;Correction of the Projection Distortion and Uneven Brightness on Curved Fog Screen&lt;/p&gt; 
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container  mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row justify-content-center text-center&#34; &gt;
+       &lt;div class=&#34;col-12 text-center&#34;&gt;
+       &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584889807/homepage/mistform/2dinteraction_bimmnn.png&#34; width=&#34;83%&#34; height = auto &gt;
+      &lt;p class=&#34;lead&#34;&gt; Context-awareble 2D Interaction for a single or multi user &lt;/p&gt;
+    &lt;/div&gt;
+        &lt;div class=&#34;col-md-5 pt-4 text-center&#34;&gt;
+        &lt;!-- &lt;img src=&#34;dzf_sketch.jpg&#34; width=&#34;70%&#34; height = auto class=&#34;mr-5 d-block&#34; &gt; --&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/dzfdemo_min_mar3as.jpg&#34; &gt;
+          &lt;source src=&#34;dzfdemo_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;dzfdemo_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/dzfdemo_min_mar3as.gif&#34; width=&#34;80%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+         &lt;p class=&#34;lead&#34; &gt; Natural 3D Depth Interaction&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-5 pt-4 text-center&#34;&gt;
+        &lt;!--  &lt;img src=&#34;multiview.jpg&#34; width=&#34;70%&#34; height = auto class=&#34;ml-5 d-block&#34; &gt; --&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/multiview_min_usiyp0.jpg&#34; &gt;
+          &lt;source src=&#34;multiview_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;multiview_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/mistform/multiview_min_usiyp0.gif&#34; width=&#34;80%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Multi-view 3D Imaging for Two Users&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt; Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-8&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;//www.youtube.com/embed/XXsfO_jIvg4&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt; Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+    &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Yutaka Tokuda, Mohd Adili Norasikin, Sriram Subraman, Diego Martinez Plasencia. 2017. &lt;strong&gt;MistForm: Adaptive Shape Changing Fog Screens. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems&lt;/em&gt; (CHI&#39;17), pp.4383--4395. &lt;a href= &#34;https://doi.org/10.1145/3025453.3025608&#34;&gt; https://doi.org/10.1145/3025453.3025608 &lt;/a&gt; &amp;nbsp;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;/publication/2017_paper_mistform/cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;http://sro.sussex.ac.uk/67147/1/paper1747.pdf&#34;&gt; &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF &lt;/i&gt;&lt;/a&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;MistForm.pptx&#34;&gt;&lt;i class=&#34;fas fa-file-powerpoint&#34;&gt; Slide [79.9MB] &lt;/i&gt; 
+    &lt;/a&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&#34;mynews&#34;&gt;
+  &lt;div class = &#34;container text-center text-black py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-danger&#34;&gt; &lt;i class=&#34;far fa-newspaper&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Selected Press Coverage
+    &lt;/h1&gt;
+  &lt;/div&gt;
+&lt;div class = &#34;container text-black pt-2 pb-4 mt-3&#34;&gt;
+&lt;div class=&#34;row row-cols-1 row-cols-md-3&#34;&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+  &lt;a href=&#34;https://locateeastsussex.org.uk/blog/2018-11-01-university-of-sussex-virtual-reality-lab&#34;&gt;
+      &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/eastsussex_deyltm.png&#34; alt=&#34;East Sussex News&#34;&gt;
+  &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Card --&gt;
+&lt;/div&gt;
+   &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.eurekamagazine.co.uk/design-engineering-features/technology/sussex-researchers-develop-a-system-that-is-more-interactive-and-easier-on-the-eye-than-vr/160265/&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/eureka_ukcusi.png&#34; alt=&#34;Eureka News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://eandt.theiet.org/content/articles/2017/05/shape-shifting-fog-screen-allows-for-3d-interaction-with-objects/&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/et_f3fzwd.png&#34; alt=&#34;E&amp;T News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://phys.org/news/2017-05-shape-changing-fog-screen.html&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/phyorg_s5juxf.png&#34; alt=&#34;Physorg News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.techbriefs.com/component/content/article/tb/stories/news/26908&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/techbrief_ryhjd6.png&#34; alt=&#34;Tech Briefs News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://newatlas.com/mistform-shape-shifting-fog-screen/49401/&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/newatlas_iy74sz.png&#34; alt=&#34;Newatlas News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.des-madrid.com/mistform-screen-projects-images-air/&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/des_zyywrn.png&#34; alt=&#34;Des-madrid News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://finance.yahoo.com/news/shape-shifting-fog-display-ushers-222728094.html&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/yahoofinance_xap3jg.png&#34; alt=&#34;Yahoo Finance News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://time-space.kddi.com/digicul-column/world/20170623/2014&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769492/homepage/presscoverage/mistform/kddi_jxvgka.png&#34; alt=&#34;Time-Space KDDI News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

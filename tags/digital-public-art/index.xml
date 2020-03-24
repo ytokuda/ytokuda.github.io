@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digital public art | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/tags/digital-public-art/</link>
+      <atom:link href="https://ytokuda.github.io/tags/digital-public-art/index.xml" rel="self" type="application/rss+xml" />
+    <description>digital public art</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>digital public art</title>
+      <link>https://ytokuda.github.io/tags/digital-public-art/</link>
+    </image>
+    
+    <item>
+      <title>Tree-shaded screen: A Propeller type screen for Public Art</title>
+      <link>https://ytokuda.github.io/publication/2009_paper_tree/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2009_paper_tree/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

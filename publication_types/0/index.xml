@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/publication_types/0/</link>
+      <atom:link href="https://ytokuda.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>0</title>
+      <link>https://ytokuda.github.io/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>JDLED: Towards Visio-Tactile Displays Based on Electrochemical Locomotion of Liquid-Metal Janus Droplets</title>
+      <link>https://ytokuda.github.io/publication/2017_demo_jdled/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_demo_jdled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable Liquid Matter: 2D Shape Drawing of Highly Conductive Liquid Metals in a Dynamic Electric Field</title>
+      <link>https://ytokuda.github.io/publication/2017_demo_programmableliquid/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_demo_programmableliquid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarized aerial imaging by retroreflection for 2.5D floating image displays</title>
+      <link>https://ytokuda.github.io/publication/2016_others_r2d2wairr_spie/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2016_others_r2d2wairr_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R2D2 w/ AIRR: real time &amp; real space double-layered display with aerial imaging by retro-reflection</title>
+      <link>https://ytokuda.github.io/publication/2015_demo_r2d2wairr/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2015_demo_r2d2wairr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarized Aerial Imaging by Retro-Reflection (pAIRR)</title>
+      <link>https://ytokuda.github.io/publication/2015_poster_dhip/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2015_poster_dhip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controllable Vortex Display</title>
+      <link>https://ytokuda.github.io/publication/2008_poster_vortexring/</link>
+      <pubDate>Mon, 11 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2008_poster_vortexring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

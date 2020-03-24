@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reconfigurable | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/tags/reconfigurable/</link>
+      <atom:link href="https://ytokuda.github.io/tags/reconfigurable/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reconfigurable</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Reconfigurable</title>
+      <link>https://ytokuda.github.io/tags/reconfigurable/</link>
+    </image>
+    
+    <item>
+      <title>PickCells</title>
+      <link>https://ytokuda.github.io/projects/pickcells/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/pickcells/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-1&#34; style=&#34;background-image: url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,f_auto,fl_progressive,o_50,q_auto:low/v1584843006/homepage/pickcells/header_moem0c.png)&#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; PickCells &lt;/h1&gt;
+        &lt;h3 style=&#34;color:rgb(220,220,220);&#34;&gt; A Physically Reconfigurable Cell-composed Touchscreen &lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container mt-1 pb-5&#34;&gt;
+  &lt;div class=&#34;row pt-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt;
+         &lt;p&gt; &lt;a href=&#34;http://www.alixgoguey.fr/&#34;&gt;Alix Goguey&lt;/a&gt;, &lt;a href=&#34;http://cs.swan.ac.uk/~cdsteer/&#34;&gt;Cameron Steer&lt;/a&gt;, &lt;a href=&#34;http://www.funkydesignspaces.com/&#34;&gt;Andr&amp;eacute;s Lucero&lt;/a&gt;, &lt;a href=&#34;http://iihm.imag.fr/nigay/&#34;&gt;Laurence Nigay&lt;/a&gt;, &lt;a href=&#34;https://www.swansea.ac.uk/staff/science/computer-science/sahood/&#34;&gt;Deepak Ranjan Sahoo&lt;/a&gt;, &lt;a href=&#34;http://iihm.imag.fr/coutrix/&#34;&gt;C&amp;eacute;line Coutrix&lt;/a&gt;, &lt;a href=&#34;http://anneroudaut.fr/&#34;&gt;Anne Roudaut&lt;/a&gt;, &lt;a href=&#34;http://www.sussex.ac.uk/profiles/368795&#34;&gt;Sriram Subramanian&lt;/a&gt;,&lt;br&gt; &lt;a href=&#34;https://yutakatokuda.com/&#34;&gt;Yutaka Tokuda&lt;/a&gt;, &lt;a href=&#34;https://tdjneate.github.io/&#34;&gt;Timothy Neate&lt;/a&gt;, &lt;a href=&#34;https://www.swansea.ac.uk/staff/science/computer-science/j.pearson/&#34;&gt;Jennifer Pearson&lt;/a&gt;, &lt;a href=&#34;https://www.swansea.ac.uk/staff/science/computer-science/s.n.w.robinson/&#34;&gt;Simon Robinson&lt;/a&gt;, &lt;a href=&#34;http://cs.swan.ac.uk/~csmatt/&#34;&gt;Matt Jones&lt;/a&gt; &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+       &lt;p class=&#34;text-justify&#34;&gt;Touchscreens are the predominant medium for interactions with digital services; however, their current fixed form factor narrows the scope for rich physical interactions by limiting interaction possibilities to a single, planar surface. In this paper we introduce the concept of PickCells, a fully re-configurable device concept composed of cells, that breaks the mould of rigid screens and explores a modular system that affords rich sets of tangible interactions and novel across-device relationships. Through a series of co-design activities -- involving HCI experts and potential end-users of such systems -- we synthesised a design space aimed at inspiring future research, giving researchers and designers a framework in which to explore modular screen interactions. The design space we propose unifies existing works on modular touch surfaces under a general framework and broadens horizons by opening up unexplored spaces providing new interaction possibilities. This project explored the PickCells concept, a design space of modular touch surfaces, and proposed a toolkit for quick scenario prototyping.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-2&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Research Concept
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white mt-1 mb-4 pb-5&#34;&gt;
+  &lt;div class=&#34;row  no-gutters&#34; &gt;
+   &lt;div class=&#34;col-12 pt-4&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584843007/homepage/pickcells/overview_abxbzm.png&#34; width=&#34;80%&#34; height = auto&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row align-items-center text-center&#34; &gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/pickcells/password_abidce.jpg&#34; width=&#34;373&#34; height=auto&gt;
+          &lt;source src=&#34;password.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;password.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/pickcells/password_abidce.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+         &lt;p class=&#34;lead&#34;&gt; Tangible Passwords &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/pickcells/minimum_u1tmwb.jpg&#34; width=&#34;37&#34; height=auto&gt;
+           &lt;source src=&#34;minimum.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;minimum.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/pickcells/minimum_u1tmwb.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Minimalism&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+            &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/pickcells/puzzle_g5yahv.jpg&#34; width=&#34;373&#34; height=auto&gt;
+           &lt;source src=&#34;puzzle.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;puzzle.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/pickcells/puzzle_g5yahv.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+          &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt;  Crowd Contribution&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-9&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;//www.youtube.com/embed/8UH2t_B7RDM&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+   &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Alix Goguey, Cameron Steer, Andr&amp;eacute;s Lucero, Laurence Nigay, Deepak Ranjan Sahoo, C&amp;eacute;line Coutrix, Anne Roudaut, Sriram Subramanian, Yutaka Tokuda, Timothy Neate, Jennifer Pearson, Simon Robinson, Matt Jones. 2019. &lt;strong&gt;PickCells: A Physically Reconfigurable Cell-composed Touchscreen. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems&lt;/em&gt; (CHI&#39;19), pp.1--14. &lt;a href= &#34;https://doi.org/10.1145/3290605.3300503&#34;&gt; https://doi.org/10.1145/3290605.3300503 &lt;/a&gt; &amp;nbsp;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;/publication/2019_paper_pickcel/cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;https://openaccess.city.ac.uk/id/eprint/21273/7/pickcells-chi2019.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [11MB]&lt;/i&gt; &lt;/a&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&#34;mynews&#34;&gt;
+  &lt;div class = &#34;container text-center text-black py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-danger&#34;&gt; &lt;i class=&#34;far fa-newspaper&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Press Coverage
+    &lt;/h1&gt;
+  &lt;/div&gt;
+&lt;div class = &#34;container text-black pt-2 pb-4 mt-3&#34;&gt;
+&lt;div class=&#34;row row-cols-1 row-cols-md-3&#34;&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+  &lt;a href=&#34;https://www.newscientist.com/article/2202534-make-a-shape-shifting-tablet-with-touchscreens-that-click-together/&#34;&gt;
+      &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769494/homepage/presscoverage/pickcells/newscientist_dn2eyd.png&#34; width=368 height=auto alt=&#34;Card image cap&#34;&gt;
+  &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Card --&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SoundBender</title>
+      <link>https://ytokuda.github.io/projects/soundbender/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/soundbender/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-1 &#34; style=&#34;background-image:url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,c_limit,e_sharpen:100,f_auto,fl_progressive,h_512,o_70,q_auto:low,w_1348/v1584835736/homepage/soundbender/featured_header_fl78hu.png)&#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; SoundBender &lt;/h1&gt;
+        &lt;h3 style=&#34;color:rgb(220,220,220);&#34;&gt; Dynamic Acoustic Control behind Obstacles by Metamaterial &lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container mt-1&#34;&gt;
+      &lt;div class=&#34;row pt-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+         &lt;a href=&#34;http://interact-lab.com/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,h_84,q_auto,w_296/v1584769573/homepage/logo/interactlab_djohtp.png&#34; width=&#34;80%&#34; height = auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+       &lt;p class=&#34;text-justify&#34;&gt;Ultrasound manipulation is growing in popularity with applications in &lt;a href=&#34;https://www.ultraleap.com/haptics/&#34;&gt;mid-air haptics&lt;/a&gt;, on-body interaction, and &lt;a href=&#34;https://www.nature.com/articles/d41586-019-03454-y&#34;&gt;levitation-based displays&lt;/a&gt;. Most of these applications share two key limitations: a) the complexity of the sound fields that can be produced is limited by the physical size of the transducers; and b) no obstacles can be present between the transducers and the control point. We proposed SoundBender, a hybrid system that overcomes these limitations by combining the versatility of &lt;a href=&#34;https://www.wikiwand.com/en/Phased_array_ultrasonics&#34;&gt;phased arrays of Transducers&lt;/a&gt;(PATs) with the precision of &lt;a href=&#34;https://www.wikiwand.com/en/Acoustic_metamaterial&#34;&gt;acoustic metamaterials&lt;/a&gt;. In this project, we explored a new approach to design and implement such hybrid modulators (i.e. to create complex sound fields) and methods to manipulate the field dynamically (i.e. stretch, steer). We demonstrated our concept using self-bending beams enabling both levitation and tactile feedback around an obstacle and presented example applications enabled by SoundBender.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Working Principle
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white mt-2 mb-4 pb-4&#34;&gt;
+   &lt;div class=&#34;row-8 align-items-center text-center pb-2&#34; &gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_fit,e_sharpen:100,f_auto,fl_progressive,h_640,q_auto:low,w_1628/v1584834859/homepage/soundbender/principle_xdejht.png&#34; width=&#34;80%&#34; height = auto class=&#34;mx-auto d-block&#34; &gt;
+    &lt;br&gt;
+    &lt;div class=&#34;row-8 align-items-center text-center&#34; &gt;
+     &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/soundbender/principle-video_rqjq02.jpg&#34; width=&#34;878&#34; height=auto&gt;
+          &lt;source src=&#34;principle-video.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;principle-video.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/soundbender/principle-video_rqjq02.gif&#34; width=&#34;878&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+      &lt;/video&gt;
+   &lt;/div&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container ontainer-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row align-items-center text-center&#34; &gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/haptics_odsd6q.jpg&#34; width=&#34;370&#34; height=&#34;208&#34;&gt;
+          &lt;source src=&#34;haptics.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;haptics.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/haptics_odsd6q.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+         &lt;p class=&#34;lead&#34;&gt; Mid-air Haptics behind an obstacle &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/airflow_kat5qx.jpg&#34; width=&#34;370&#34; height=&#34;208&#34;&gt;
+          &lt;source src=&#34;airflow.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;airflow.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/airflow_kat5qx.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Dynamic Airflow Control &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/levitation_bnsbs7.jpg&#34; width=&#34;370&#34; height=&#34;208&#34;&gt;
+          &lt;source src=&#34;levitation.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;levitation.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto:best/v1584772442/homepage/soundbender/levitation_bnsbs7.gif&#34; width=&#34;370&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Levitation around an obstacle &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-9&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;//www.youtube.com/embed/zixzyeF25SY&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt; Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+   &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Mohd Adili Norasikin, Diego Martinez Plasencia, Spyros Polychronopoulos, Gianluca Memoli, Yutaka Tokuda, Sriram Subramanian. 2018. &lt;strong&gt;SoundBender: Dynamic Acoustic Control Behind Obstacles. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 31st Annual ACM Symposium on User In terface Software and Technology&lt;/em&gt; (UIST&#39;18), pp.247--259. &lt;a href= &#34;https://doi.org/10.1145/3242587.3242590&#34;&gt; https://doi.org/10.1145/3242587.3242590 &lt;/a&gt; &amp;nbsp;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;/publication/2018_paper_soundbender/cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;http://sro.sussex.ac.uk/id/eprint/78305/1/SoundBender_UIST2018_pdf2.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF &lt;/i&gt; &lt;/a&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;https://www.youtube.com/watch?v=-Er_5qE4O_U&#34;&gt;&lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; Talk&lt;/a&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programmable Liquid Matter</title>
+      <link>https://ytokuda.github.io/projects/programmableliquidmatter/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/programmableliquidmatter/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-1&#34; style=&#34;background-image: url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,c_scale,f_auto,fl_progressive,h_510,o_70,q_auto:low,w_1380/v1584861047/homepage/programliquid/header_ulolfq.png) &#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; Programmable Liquid Matter &lt;/h1&gt;
+        &lt;h3&gt; Electrically Controllable Shape Deformation of Gallium-Indium Alloy Liquid Metal &lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container mt-1&#34;&gt;
+      &lt;div class=&#34;row pt-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+          &lt;a href=&#34;http://interact-lab.com/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769573/homepage/logo/interactlab_djohtp.png&#34; width=&#34;100%&#34; height = auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+         &lt;a href=&#34;https://www.swansea.ac.uk/compsci/research-and-impact/human-computer-interaction/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769573/homepage/logo/fitlab_dza4vj.png&#34; width=&#34;75%&#34; height = auto class=&#34;mx-auto d-block&#34; &gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+       &lt;p class=&#34;text-justify&#34;&gt;This project investigated a novel control method to program the shape of
+         a &lt;a href=&#34;https://www.wikiwand.com/en/Liquid_metal&#34;&gt;liquid metal&lt;/a&gt; and allow unique organic animations
+        based on spatio-temporally controlled electric fields.
+        In particular, we successfully manipulated a droplet of liquid metal (&lt;a href=&#34;https://www.sigmaaldrich.com/catalog/product/aldrich/495425?lang=en&amp;region=US&#34;&gt;Gallium
+        Indium eutectic alloy&lt;/a&gt;) by a 7x7 electrode array prototype system,
+        featuring an integrated image tracking system and a
+        simple GUI. Exploiting the strong dependance of EGaIn’s
+        surface tension on external electric voltages, multiple
+        electrodes are dynamically controlled to manipulate the liquid metal into
+        a fine-grained desired shape. Taking advantage of the high
+        conductivity of liquid metals, a shape-changing,
+        reconfigurable smart circuit can be considered as  one of unique applications 
+        of the proposed method. We explored system constraints and the overarching
+        challenge of controlling liquid metals in the presence of phenomena
+        such as splitting, self-electrode interference and finger
+        instabilities. Through this project, we aimed to open the new possibility
+        of liquid based &lt;a href=&#34;https://www.wikiwand.com/en/Programmable_matter&#34;&gt;programmable matter&lt;/a&gt; for &lt;a href=&#34;https://www.wikiwand.com/en/Soft_robotics&#34;&gt;soft robotics&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=lfUnK_rME8E&amp;t=339s&#34;&gt;physically reconfigurable electronic devices&lt;/a&gt;, and &lt;a href=&#34;https://vimeo.com/116510462&#34;&gt;new media 
+        art display&lt;/a&gt;.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Working Principle
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white mt-2 mb-4 pb-5&#34;&gt;
+  &lt;div class=&#34;row justfiy-content-center&#34; &gt;
+   &lt;div class=&#34;col-7&#34; &gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto:low,w_700/v1584860846/homepage/programliquid/lipmannEq_kkx7bs.png&#34; width=&#34;96%&#34; height = auto&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-4&#34; &gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/deform_min_huflih.jpg&#34;&gt;
+           &lt;source src=&#34;deform_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;deform_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/deform_min_huflih.gif&#34; width=&#34;80%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/deform_top_min_mboyvh.jpg&#34;&gt;
+          &lt;source src=&#34;deform_top_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;deform_top_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/deform_top_min_mboyvh.gif&#34; width=&#34;80%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+    &lt;/div&gt;
+   &lt;div class=&#34;col-1&#34;&gt; &lt;/div&gt;
+   &lt;div class=&#34;col-11 pt-4 ml-1&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto:low,w_1100/v1584860846/homepage/programliquid/arraycontrol_fq3xqw.png&#34; width=&#34;99%&#34; height = auto&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-1&#34;&gt; &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row align-items-center text-center&#34; &gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/s_min_qnwhco.jpg&#34; width=&#34;373&#34; height=auto&gt;
+          &lt;source src=&#34;s_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;s_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/s_min_qnwhco.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+         &lt;p class=&#34;lead&#34;&gt; Drawing the letter &#34;S&#34; &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/heart_min_acbmoc.jpg&#34; width=&#34;373&#34; height=auto&gt;
+          &lt;source src=&#34;heart_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;heart_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/heart_min_acbmoc.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Drawing a symmetric heart shape&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/led_min_wklev6.jpg&#34; width=&#34;373&#34; height=auto&gt;
+            &lt;source src=&#34;led_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;led_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/led_min_wklev6.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Reconfigurable LED circuit &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-8&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;//www.youtube.com/embed/nSFwbCjnyY4&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+   &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Yutaka Tokuda, Jose Luis Berna Moya, Gianluca Memoli, Timothy Neate, Deepak Ranjan Sahoo,   
+          Simon Robinson, Jennifer Pearson, Matt Jones, Sriram Subramanian. 2017. &lt;strong&gt;Programmable Liquid Matter: 2D Shape Deformation of Highly Conductive Liquid Metals in a Dynamic Electric Field. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 2017 ACM International Conference on Interactive Surfaces and Spaces&lt;/em&gt; (ISS&#39;17), pp.142--150. &lt;a href= &#34;https://doi.org/10.1145/3132272.3134132&#34;&gt; https://doi.org/10.1145/3132272.3134132 &lt;/a&gt; &amp;nbsp;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;/publication/2017_paper_programmableliquid/cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;http://sro.sussex.ac.uk/71572/1/Programmable_Liquid_Matter__ISS_2017_%20camera_ready.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF &lt;/i&gt; &lt;/a&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;https://www.youtube.com/watch?v=-5bfju3OLGE&#34;&gt;&lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; Talk &lt;/a&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;ISS2017_programmableliquid.pptx&#34;&gt;&lt;i class=&#34;fas fa-file-powerpoint&#34;&gt; Slide[102MB] &lt;/i&gt; 
+    &lt;/a&gt;
+   &lt;/p&gt;
+   &lt;p&gt;
+      &lt;span class=&#34;badge badge-warning&#34;&gt;Demo&lt;/span&gt; Yutaka Tokuda, Jose Luis Berna Moya, Gianluca Memoli, Timothy Neate, Deepak Ranjan Sahoo,   
+          Simon Robinson, Jennifer Pearson, Matt Jones, Sriram Subramanian. 2017. &lt;strong&gt;Programmable Liquid Matter: 2D Shape Drawing of Highly Conductive Liquid Metals in a Dynamic Electric Field. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 2017 ACM International Conference on Interactive Surfaces and Spaces&lt;/em&gt; (ISS&#39;17), pp.454--457. &lt;a href= &#34;https://doi.org/10.1145/3132272.3132289&#34;&gt; https://doi.org/10.1145/3132272.3132289 &lt;/a&gt; &amp;nbsp;
+      &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;/publication/2017_demo_programmableliquid/cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;http://sro.sussex.ac.uk/id/eprint/72502/1/ISS2017demo_liquidmatter.pdf&#34;&gt; &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF &lt;/i&gt; &lt;/a&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&#34;mynews&#34;&gt;
+  &lt;div class = &#34;container text-center text-black py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-danger&#34;&gt; &lt;i class=&#34;far fa-newspaper&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Selected Press Coverage
+    &lt;/h1&gt;
+  &lt;/div&gt;
+&lt;div class = &#34;container text-black pt-2 pb-4 mt-3&#34;&gt;
+&lt;div class=&#34;row row-cols-1 row-cols-md-3&#34;&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+  &lt;a href=&#34;https://uk.reuters.com/video/watch/terminator-style-liquid-metal-morphs-int-idOV823U89N&#34;&gt;
+      &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto:low,w_700/v1584769492/homepage/presscoverage/liquidmetal/reuters_s6h1ac.png&#34; alt=&#34;Reuters News&#34;&gt;
+  &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Card --&gt;
+&lt;/div&gt;
+   &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://cacm.acm.org/news/221974-liquid-metal-brings-soft-robotics-a-step-closer/fulltext&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/acm_o9g6kp.png&#34; alt=&#34;ACM Communications&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://ytokuda.github.io/img/presscoverage/liquidmetal/newspaper.pdf&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/newspaper_jxokxu.png&#34; alt=&#34;Brazillian News Paper&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://phys.org/news/2017-10-liquid-metal-soft-robotics-closer.html&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/physorg_zfs6t0.png&#34; alt=&#34;PhyOrg&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.imeche.org/news/news-article/insight-shape-shifting-metal-could-create-self-healing-robots&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/magazine_flxpnm.png&#34; alt=&#34;Imeche News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.ge.com/reports/5-coolest-things-earth-week-28/&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/ge_exs1ji.png&#34; alt=&#34;Ge Reports&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;http://www.sci-news.com/physics/programmable-liquid-matter-05333.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+BreakingScienceNews+%28Breaking+Science+News%29&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/scinews_nu2hqj.png&#34; alt=&#34;Science News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.gizmodo.jp/2018/09/programmable-liquid-matter.html&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/gizmodo_nmgcfh.png&#34; alt=&#34;Gizmodo&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://grapee.jp/558584&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/grape_zvc7wc.png&#34; alt=&#34;Grapee&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://gendai.ismedia.jp/articles/-/64772&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/gendai_yepeu0.png&#34; alt=&#34;Shukan Gendai&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.kagaku-kentei.jp/news_detail/data/454&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/kanji_ewiwjg.png&#34; alt=&#34;Kagaku-kentei&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

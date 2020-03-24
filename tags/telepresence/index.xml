@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>telepresence | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/tags/telepresence/</link>
+      <atom:link href="https://ytokuda.github.io/tags/telepresence/index.xml" rel="self" type="application/rss+xml" />
+    <description>telepresence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 22 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>telepresence</title>
+      <link>https://ytokuda.github.io/tags/telepresence/</link>
+    </image>
+    
+    <item>
+      <title>Practical Use of a Remote Movable Avatar Robot with an Immersive Interface for Seniors</title>
+      <link>https://ytokuda.github.io/publication/2014_paper_izumi_hcii/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2014_paper_izumi_hcii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Mobile Embodied 3D Avatar as Telepresence Vehicle</title>
+      <link>https://ytokuda.github.io/publication/2013_paper_avatar_hcii/</link>
+      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2013_paper_avatar_hcii/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liquid Metal | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/tags/liquid-metal/</link>
+      <atom:link href="https://ytokuda.github.io/tags/liquid-metal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liquid Metal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Liquid Metal</title>
+      <link>https://ytokuda.github.io/tags/liquid-metal/</link>
+    </image>
+    
+    <item>
+      <title>Tangible Drops</title>
+      <link>https://ytokuda.github.io/projects/tangibledrops/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/tangibledrops/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-1&#34; style=&#34;background-image:  url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,f_auto,fl_progressive,o_60,q_auto:low/v1584846218/homepage/tangibledrops/header_lciygw.png) &#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; Tangible Drops&lt;/h1&gt;
+        &lt;h3 style=&#34;color:rgb(220,220,220);&#34;&gt; A Visio-Tactile Display Using Actuated Liquid-Metal Droplets &lt;/h3&gt;
+    &lt;/div&gt;
+ &lt;div class=&#34;container mt-1&#34;&gt;
+      &lt;div class=&#34;row pt-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+       &lt;div class=&#34;col text-center&#34;&gt;
+         &lt;a href=&#34;https://www.swansea.ac.uk/compsci/research-and-impact/human-computer-interaction/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769573/homepage/logo/fitlab_dza4vj.png&#34; width=&#34;75%&#34; height = auto class=&#34;mx-auto d-block&#34; &gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+          &lt;a href=&#34;http://interact-lab.com/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769573/homepage/logo/interactlab_djohtp.png&#34; width=&#34;100%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+       &lt;p class=&#34;text-justify&#34;&gt; This project proposed Tangible Drops, a visio-tactile display that for the first time provides physical visualization and tactile feedback using a planar liquid interface. It presents digital information interactively by tracing dynamic patterns on horizontal flat surfaces using liquid metal drops on a programmable electrode array. It provides tactile feedback with directional information in the 2D vector plane using linear locomotion and/or vibration of the liquid metal drops. We demonstrate move, oscillate, merge, split and dispense-from-reservoir functions of the liquid metal drops by consuming low power (450 mW per electrode) and low voltage (8--15 V). We reported on results of our empirical study with 12 participants on tactile feedback using 8 mm diameter drops, which indicated that Tangible Drops can convey tactile sensations such as changing speed, varying direction and controlled oscillation with no visual feedback. We explored the design space and demonstrated the applications of Tangible Drops, and showed potential future applications for the technique.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-2&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Working Principles
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white mt-1 mb-4 pb-5&#34;&gt;
+  &lt;div class=&#34;row  text-center no-gutters&#34; &gt;
+   &lt;div class=&#34;col-12 pt-4&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584846218/homepage/tangibledrops/motion_bjni1l.png&#34; width=&#34;80%&#34; height = auto&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-1&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;1&lt;/i&gt;&lt;/span&gt;&amp;ensp;Linear 2D Locomotion by Continuous Electrowetting&lt;/p&gt; 
+  &lt;/div&gt;
+  &lt;div class=&#34;col-12 pt-4&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584846218/homepage/tangibledrops/vibration_srem8f.png&#34; width=&#34;80%&#34; height = auto&gt;
+  &lt;/div&gt;
+   &lt;div class=&#34;col-12 pt-1&#34;&gt;
+    &lt;p class=&#34;lead&#34;&gt;  &lt;span class=&#34;badge badge-pill badge-info&#34;&gt;2&lt;/i&gt;&lt;/span&gt;&amp;ensp;Vertical Deformation and Vibration by AC Electrowetting  &lt;/p&gt; 
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row align-items-center text-center&#34; &gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/H_hwheul.jpg&#34; width=&#34;373&#34; height=auto&gt;
+          &lt;source src=&#34;H.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;H.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/H_hwheul.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+         &lt;p class=&#34;lead&#34;&gt; Locomotion drawing the letter &#39;H&#39; &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/vibration_oqfoke.jpg&#34; width=&#34;373&#34; height=auto&gt;
+          &lt;source src=&#34;vibration.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;vibration.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/vibration_oqfoke.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt;  Vibration Mode Control&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/tactile_txn9vg.jpg&#34; width=&#34;373&#34; height=auto&gt;
+           &lt;source src=&#34;tactile.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;tactile.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto/v1584834860/homepage/tangibledrops/tactile_txn9vg.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt;  Tactile Feedback by Liquid Metal&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-9&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;//www.youtube.com/embed/nG5YW8TmY1c&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+   &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; 
+Deepak Ranjan Sahoo, Timothy Neate, Yutaka Tokuda, Jennifer Pearson, Simon Robinson, Sriram Subramanian, Matt Jones. 2018. &lt;strong&gt;Tangible Drops: A Visio-Tactile Display Using Actuated Liquid-Metal Droplets. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems&lt;/em&gt; (CHI&#39;18), pp.1--14. &lt;a href= &#34;https://doi.org/10.1145/3173574.3173751&#34;&gt; https://doi.org/10.1145/3173574.3173751 &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;/publication/2018_paper_tangibledrop/cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;https://core.ac.uk/download/pdf/157696895.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [1.96MB]&lt;/i&gt; &lt;/a&gt;
+   &lt;/p&gt;
+      &lt;p&gt;
+      &lt;span class=&#34;badge badge-warning&#34;&gt;Demo&lt;/span&gt; 
+Deepak Ranjan Sahoo, Timothy Neate, Yutaka Tokuda, Jennifer Pearson, Simon Robinson, Sriram Subramanian, Matt Jones. 2017. &lt;strong&gt;JDLED: Towards Visio-Tactile Displays Based on Electrochemical Locomotion of Liquid-Metal Janus Droplets. &lt;/strong&gt;
+          &lt;em&gt;Adjunct Publication of the 30th Annual ACM Symposium on User Interface Software and Technology&lt;/em&gt; (UIST&#39;17 demo), pp.67--69. &lt;a href= &#34;https://doi.org/10.1145/3131785.3131793&#34;&gt; https://doi.org/10.1145/3131785.3131793 &lt;/a&gt; &amp;nbsp; &lt;br&gt;
+      &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;http://sro.sussex.ac.uk/id/eprint/70978/3/paper118.pdf&#34;&gt; &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF [6.84MB] &lt;/i&gt; &lt;/a&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programmable Liquid Matter</title>
+      <link>https://ytokuda.github.io/projects/programmableliquidmatter/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/projects/programmableliquidmatter/</guid>
+      <description>&lt;div class=&#34;myproject&#34;&gt;
+&lt;div class=&#34;jumbotron jumbotron-fluid text-center mb-1&#34; style=&#34;background-image: url(https://res.cloudinary.com/dqmr9nqcy/image/upload/b_rgb:000000,c_scale,f_auto,fl_progressive,h_510,o_70,q_auto:low,w_1380/v1584861047/homepage/programliquid/header_ulolfq.png) &#34; &gt;
+    &lt;div class=&#34;container text-center&#34;&gt;
+        &lt;h1&gt; Programmable Liquid Matter &lt;/h1&gt;
+        &lt;h3&gt; Electrically Controllable Shape Deformation of Gallium-Indium Alloy Liquid Metal &lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;container mt-1&#34;&gt;
+      &lt;div class=&#34;row pt-5&#34;&gt;
+        &lt;div class=&#34;col&#34;&gt; &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+          &lt;a href=&#34;http://interact-lab.com/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769573/homepage/logo/interactlab_djohtp.png&#34; width=&#34;100%&#34; height = auto class=&#34;mx-auto d-block&#34;&gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col text-center&#34;&gt;
+         &lt;a href=&#34;https://www.swansea.ac.uk/compsci/research-and-impact/human-computer-interaction/&#34;&gt; &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/e_sharpen:100,f_auto,fl_progressive,q_auto:low/v1584769573/homepage/logo/fitlab_dza4vj.png&#34; width=&#34;75%&#34; height = auto class=&#34;mx-auto d-block&#34; &gt; &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt; 
+&lt;/div&gt;
+&lt;div class = &#34;myoverview&#34;&gt;
+&lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-primary&#34;&gt; &lt;i class=&#34;fas fa-tag&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Overview
+    &lt;/h1&gt;
+&lt;/div&gt;
+ &lt;div class = &#34;container text-white my-2 pb-3&#34;&gt;
+       &lt;p class=&#34;text-justify&#34;&gt;This project investigated a novel control method to program the shape of
+         a &lt;a href=&#34;https://www.wikiwand.com/en/Liquid_metal&#34;&gt;liquid metal&lt;/a&gt; and allow unique organic animations
+        based on spatio-temporally controlled electric fields.
+        In particular, we successfully manipulated a droplet of liquid metal (&lt;a href=&#34;https://www.sigmaaldrich.com/catalog/product/aldrich/495425?lang=en&amp;region=US&#34;&gt;Gallium
+        Indium eutectic alloy&lt;/a&gt;) by a 7x7 electrode array prototype system,
+        featuring an integrated image tracking system and a
+        simple GUI. Exploiting the strong dependance of EGaIn’s
+        surface tension on external electric voltages, multiple
+        electrodes are dynamically controlled to manipulate the liquid metal into
+        a fine-grained desired shape. Taking advantage of the high
+        conductivity of liquid metals, a shape-changing,
+        reconfigurable smart circuit can be considered as  one of unique applications 
+        of the proposed method. We explored system constraints and the overarching
+        challenge of controlling liquid metals in the presence of phenomena
+        such as splitting, self-electrode interference and finger
+        instabilities. Through this project, we aimed to open the new possibility
+        of liquid based &lt;a href=&#34;https://www.wikiwand.com/en/Programmable_matter&#34;&gt;programmable matter&lt;/a&gt; for &lt;a href=&#34;https://www.wikiwand.com/en/Soft_robotics&#34;&gt;soft robotics&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=lfUnK_rME8E&amp;t=339s&#34;&gt;physically reconfigurable electronic devices&lt;/a&gt;, and &lt;a href=&#34;https://vimeo.com/116510462&#34;&gt;new media 
+        art display&lt;/a&gt;.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myprinciple&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-lightbulb&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Working Principle
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white mt-2 mb-4 pb-5&#34;&gt;
+  &lt;div class=&#34;row justfiy-content-center&#34; &gt;
+   &lt;div class=&#34;col-7&#34; &gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto:low,w_700/v1584860846/homepage/programliquid/lipmannEq_kkx7bs.png&#34; width=&#34;96%&#34; height = auto&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-4&#34; &gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/deform_min_huflih.jpg&#34;&gt;
+           &lt;source src=&#34;deform_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;deform_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/deform_min_huflih.gif&#34; width=&#34;80%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/deform_top_min_mboyvh.jpg&#34;&gt;
+          &lt;source src=&#34;deform_top_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;deform_top_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/deform_top_min_mboyvh.gif&#34; width=&#34;80%&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+    &lt;/div&gt;
+   &lt;div class=&#34;col-1&#34;&gt; &lt;/div&gt;
+   &lt;div class=&#34;col-11 pt-4 ml-1&#34;&gt;
+    &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto:low,w_1100/v1584860846/homepage/programliquid/arraycontrol_fq3xqw.png&#34; width=&#34;99%&#34; height = auto&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-1&#34;&gt; &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mydemo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-1 pb-4 text-center text-white &#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-success&#34;&gt; &lt;i class=&#34;far fa-eye&#34; &gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;System Demonstration
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;container text-center mt-2 mb-4 pb-4&#34;&gt;
+    &lt;div class=&#34;row align-items-center text-center&#34; &gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+        &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/s_min_qnwhco.jpg&#34; width=&#34;373&#34; height=auto&gt;
+          &lt;source src=&#34;s_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;s_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/s_min_qnwhco.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+         &lt;p class=&#34;lead&#34;&gt; Drawing the letter &#34;S&#34; &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+          &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/heart_min_acbmoc.jpg&#34; width=&#34;373&#34; height=auto&gt;
+          &lt;source src=&#34;heart_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;heart_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/heart_min_acbmoc.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+        &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Drawing a symmetric heart shape&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-md-4&#34;&gt;
+         &lt;video muted autoplay loop poster=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/led_min_wklev6.jpg&#34; width=&#34;373&#34; height=auto&gt;
+            &lt;source src=&#34;led_min.webm&#34; type=&#34;video/webm&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;source src=&#34;led_min.mp4&#34; type=&#34;video/mp4&#34; class=&#34;mx-auto d-block&#34;/&gt;
+           &lt;img src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/f_auto,fl_progressive,q_auto/v1584860846/homepage/programliquid/led_min_wklev6.gif&#34; width=&#34;373&#34; height=auto class=&#34;mx-auto d-block&#34;&gt;
+         &lt;/video&gt;
+          &lt;p class=&#34;lead&#34;&gt; Reconfigurable LED circuit &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;myvideo&#34;&gt;
+  &lt;div class = &#34;container container-fluid pt-4 pb-4 text-white text-center&#34;&gt;
+    &lt;h1&gt;
+        &lt;span class=&#34;badge badge-pill badge-warning&#34;&gt; &lt;i class=&#34;fab fa-youtube-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Main Video 
+    &lt;/h1&gt;
+    &lt;div class=&#34;row justify-content-md-center text-center mt-2 mb-3 pt-4 pb-3&#34;&gt;
+      &lt;div class=&#34;col-sm-8&#34;&gt;
+        &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+          &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;//www.youtube.com/embed/nSFwbCjnyY4&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class = &#34;mypublication&#34;&gt;
+  &lt;div class = &#34;container text-center text-white py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-info&#34;&gt; &lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Publications
+    &lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;container text-white pt-2 pb-4 mt-3&#34;&gt;
+   &lt;p&gt;
+      &lt;span class=&#34;badge badge-success&#34;&gt;Paper&lt;/span&gt; Yutaka Tokuda, Jose Luis Berna Moya, Gianluca Memoli, Timothy Neate, Deepak Ranjan Sahoo,   
+          Simon Robinson, Jennifer Pearson, Matt Jones, Sriram Subramanian. 2017. &lt;strong&gt;Programmable Liquid Matter: 2D Shape Deformation of Highly Conductive Liquid Metals in a Dynamic Electric Field. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 2017 ACM International Conference on Interactive Surfaces and Spaces&lt;/em&gt; (ISS&#39;17), pp.142--150. &lt;a href= &#34;https://doi.org/10.1145/3132272.3134132&#34;&gt; https://doi.org/10.1145/3132272.3134132 &lt;/a&gt; &amp;nbsp;
+          &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;/publication/2017_paper_programmableliquid/cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;http://sro.sussex.ac.uk/71572/1/Programmable_Liquid_Matter__ISS_2017_%20camera_ready.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF &lt;/i&gt; &lt;/a&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;https://www.youtube.com/watch?v=-5bfju3OLGE&#34;&gt;&lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; Talk &lt;/a&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;ISS2017_programmableliquid.pptx&#34;&gt;&lt;i class=&#34;fas fa-file-powerpoint&#34;&gt; Slide[102MB] &lt;/i&gt; 
+    &lt;/a&gt;
+   &lt;/p&gt;
+   &lt;p&gt;
+      &lt;span class=&#34;badge badge-warning&#34;&gt;Demo&lt;/span&gt; Yutaka Tokuda, Jose Luis Berna Moya, Gianluca Memoli, Timothy Neate, Deepak Ranjan Sahoo,   
+          Simon Robinson, Jennifer Pearson, Matt Jones, Sriram Subramanian. 2017. &lt;strong&gt;Programmable Liquid Matter: 2D Shape Drawing of Highly Conductive Liquid Metals in a Dynamic Electric Field. &lt;/strong&gt;
+          &lt;em&gt;In Proceedings of the 2017 ACM International Conference on Interactive Surfaces and Spaces&lt;/em&gt; (ISS&#39;17), pp.454--457. &lt;a href= &#34;https://doi.org/10.1145/3132272.3132289&#34;&gt; https://doi.org/10.1145/3132272.3132289 &lt;/a&gt; &amp;nbsp;
+      &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary btn-sm js-cite-modal&#34; data-filename=&#34;/publication/2017_demo_programmableliquid/cite.bib&#34;&gt;&lt;i class=&#34;fas fa-quote-right&#34;&gt;&amp;nbsp; &lt;strong&gt; Cite &lt;/strong&gt; &lt;/i&gt;&lt;/button&gt;
+    &lt;a class=&#34;badge badge-pill badge-primary&#34; href=&#34;http://sro.sussex.ac.uk/id/eprint/72502/1/ISS2017demo_liquidmatter.pdf&#34;&gt; &lt;i class=&#34;fas fa-file-pdf&#34;&gt; PDF &lt;/i&gt; &lt;/a&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&#34;mynews&#34;&gt;
+  &lt;div class = &#34;container text-center text-black py-3&#34;&gt;
+    &lt;h1&gt;
+       &lt;span class=&#34;badge badge-pill badge-danger&#34;&gt; &lt;i class=&#34;far fa-newspaper&#34;&gt;&lt;/i&gt;&lt;/span&gt;&amp;ensp;Selected Press Coverage
+    &lt;/h1&gt;
+  &lt;/div&gt;
+&lt;div class = &#34;container text-black pt-2 pb-4 mt-3&#34;&gt;
+&lt;div class=&#34;row row-cols-1 row-cols-md-3&#34;&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+  &lt;a href=&#34;https://uk.reuters.com/video/watch/terminator-style-liquid-metal-morphs-int-idOV823U89N&#34;&gt;
+      &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto:low,w_700/v1584769492/homepage/presscoverage/liquidmetal/reuters_s6h1ac.png&#34; alt=&#34;Reuters News&#34;&gt;
+  &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Card --&gt;
+&lt;/div&gt;
+   &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://cacm.acm.org/news/221974-liquid-metal-brings-soft-robotics-a-step-closer/fulltext&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/acm_o9g6kp.png&#34; alt=&#34;ACM Communications&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://ytokuda.github.io/img/presscoverage/liquidmetal/newspaper.pdf&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/newspaper_jxokxu.png&#34; alt=&#34;Brazillian News Paper&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://phys.org/news/2017-10-liquid-metal-soft-robotics-closer.html&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/physorg_zfs6t0.png&#34; alt=&#34;PhyOrg&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.imeche.org/news/news-article/insight-shape-shifting-metal-could-create-self-healing-robots&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/magazine_flxpnm.png&#34; alt=&#34;Imeche News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.ge.com/reports/5-coolest-things-earth-week-28/&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/ge_exs1ji.png&#34; alt=&#34;Ge Reports&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;http://www.sci-news.com/physics/programmable-liquid-matter-05333.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+BreakingScienceNews+%28Breaking+Science+News%29&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/scinews_nu2hqj.png&#34; alt=&#34;Science News&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.gizmodo.jp/2018/09/programmable-liquid-matter.html&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/gizmodo_nmgcfh.png&#34; alt=&#34;Gizmodo&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://grapee.jp/558584&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/grape_zvc7wc.png&#34; alt=&#34;Grapee&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://gendai.ismedia.jp/articles/-/64772&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/gendai_yepeu0.png&#34; alt=&#34;Shukan Gendai&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col mb-2&#34;&gt;
+    &lt;div class=&#34;card h-60&#34;&gt;
+      &lt;!--Card image--&gt;
+      &lt;div class=&#34;view overlay&#34;&gt;
+        &lt;a href=&#34;https://www.kagaku-kentei.jp/news_detail/data/454&#34;&gt;
+             &lt;img class=&#34;card-img-top&#34; src=&#34;https://res.cloudinary.com/dqmr9nqcy/image/upload/c_scale,e_sharpen:100,f_auto,fl_progressive,q_auto,w_700/v1584769492/homepage/presscoverage/liquidmetal/kanji_ewiwjg.png&#34; alt=&#34;Kagaku-kentei&#34;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;!-- Card --&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

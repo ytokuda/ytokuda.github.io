@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cameron Steer | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/authors/cameron-steer/</link>
+      <atom:link href="https://ytokuda.github.io/authors/cameron-steer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cameron Steer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>Cameron Steer</title>
+      <link>https://ytokuda.github.io/authors/cameron-steer/</link>
+    </image>
+    
+    <item>
+      <title>PickCells: A Physically Reconfigurable Cell-composed Touchscreen</title>
+      <link>https://ytokuda.github.io/publication/2019_paper_pickcel/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2019_paper_pickcel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

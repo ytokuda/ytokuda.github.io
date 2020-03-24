@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Yutaka Tokuda / 徳田 雄嵩</title>
+    <link>https://ytokuda.github.io/publication_types/1/</link>
+      <atom:link href="https://ytokuda.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytokuda.github.io/img/yutaka.jpg</url>
+      <title>1</title>
+      <link>https://ytokuda.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>PickCells: A Physically Reconfigurable Cell-composed Touchscreen</title>
+      <link>https://ytokuda.github.io/publication/2019_paper_pickcel/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2019_paper_pickcel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoundBender: Dynamic Acoustic Control Behind Obstacles</title>
+      <link>https://ytokuda.github.io/publication/2018_paper_soundbender/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2018_paper_soundbender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tangible Drops: A Visio-Tactile Display Using Actuated Liquid-Metal Droplets</title>
+      <link>https://ytokuda.github.io/publication/2018_paper_tangibledrop/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2018_paper_tangibledrop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable Liquid Matter: 2D Shape Deformation of Highly Conductive Liquid Metals in a Dynamic Electric Field</title>
+      <link>https://ytokuda.github.io/publication/2017_paper_programmableliquid/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_paper_programmableliquid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MistForm: Adaptive Shape Changing Fog Screens</title>
+      <link>https://ytokuda.github.io/publication/2017_paper_mistform/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2017_paper_mistform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aerial Imaging by Retro Reflection with Transparent Retro Reflector (AIRR with TRR)</title>
+      <link>https://ytokuda.github.io/publication/2015_paper_airr_trr/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2015_paper_airr_trr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Material Combinations for Bright and Clear Floating Image by Retro-reflective Re-imaging Technique</title>
+      <link>https://ytokuda.github.io/publication/2014_paper_airr_idw/</link>
+      <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2014_paper_airr_idw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Use of a Remote Movable Avatar Robot with an Immersive Interface for Seniors</title>
+      <link>https://ytokuda.github.io/publication/2014_paper_izumi_hcii/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2014_paper_izumi_hcii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Mobile Embodied 3D Avatar as Telepresence Vehicle</title>
+      <link>https://ytokuda.github.io/publication/2013_paper_avatar_hcii/</link>
+      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2013_paper_avatar_hcii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication pedometer: a discussion of gamified communication focused on frequency of smiles</title>
+      <link>https://ytokuda.github.io/publication/2013_paper_hori_ah/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2013_paper_hori_ah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Display</title>
+      <link>https://ytokuda.github.io/publication/2010_paper_cloud_ace/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2010_paper_cloud_ace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vortex ring based display</title>
+      <link>https://ytokuda.github.io/publication/2010_paper_vortexring/</link>
+      <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2010_paper_vortexring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree-shaded screen: A Propeller type screen for Public Art</title>
+      <link>https://ytokuda.github.io/publication/2009_paper_tree/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://ytokuda.github.io/publication/2009_paper_tree/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
